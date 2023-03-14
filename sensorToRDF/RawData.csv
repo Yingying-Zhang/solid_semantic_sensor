@@ -1,0 +1,1401 @@
+Observation,Sensor,Location,ResultTime,Result,Platform,Latitude,Longtitude
+AirQuality1,MQsensor,Parkinglot_entrance,2021-08-23T16:42:17.659676Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality2,MQsensor,Parkinglot_entrance,2021-08-23T16:42:18.055276Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality3,MQsensor,Parkinglot_entrance,2021-08-23T16:42:18.436647Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality4,MQsensor,Parkinglot_entrance,2021-08-23T16:42:18.862688Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality5,MQsensor,Parkinglot_entrance,2021-08-23T16:42:19.252807Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality6,MQsensor,Parkinglot_entrance,2021-08-23T16:42:19.704792Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality7,MQsensor,Parkinglot_entrance,2021-08-23T16:42:20.090352Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality8,MQsensor,Parkinglot_entrance,2021-08-23T16:42:20.507529Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality9,MQsensor,Parkinglot_entrance,2021-08-23T16:42:20.91238Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality10,MQsensor,Parkinglot_entrance,2021-08-23T16:42:21.400112Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality11,MQsensor,Parkinglot_entrance,2021-08-23T16:42:21.80715Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality12,MQsensor,Parkinglot_entrance,2021-08-23T16:42:22.325654Z,28,Raspberry Pi,50.77040958,6.060266709
+AirQuality13,MQsensor,Parkinglot_entrance,2021-08-23T16:42:22.860619Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality14,MQsensor,Parkinglot_entrance,2021-08-23T16:42:24.495958Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality15,MQsensor,Parkinglot_entrance,2021-08-23T16:42:24.924675Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality16,MQsensor,Parkinglot_entrance,2021-08-23T16:42:25.364081Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality17,MQsensor,Parkinglot_entrance,2021-08-23T16:42:25.779504Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality18,MQsensor,Parkinglot_entrance,2021-08-23T16:42:26.246251Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality19,MQsensor,Parkinglot_entrance,2021-08-23T16:42:26.672004Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality20,MQsensor,Parkinglot_entrance,2021-08-23T16:42:27.080011Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality21,MQsensor,Parkinglot_entrance,2021-08-23T16:42:27.47392Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality22,MQsensor,Parkinglot_entrance,2021-08-23T16:42:27.883582Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality23,MQsensor,Parkinglot_entrance,2021-08-23T16:42:28.288752Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality24,MQsensor,Parkinglot_entrance,2021-08-23T16:42:28.684357Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality25,MQsensor,Parkinglot_entrance,2021-08-23T16:42:29.087599Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality26,MQsensor,Parkinglot_entrance,2021-08-23T16:42:29.490232Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality27,MQsensor,Parkinglot_entrance,2021-08-23T16:42:29.890402Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality28,MQsensor,Parkinglot_entrance,2021-08-23T16:42:30.281358Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality29,MQsensor,Parkinglot_entrance,2021-08-23T16:42:30.70875Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality30,MQsensor,Parkinglot_entrance,2021-08-23T16:42:31.146763Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality31,MQsensor,Parkinglot_entrance,2021-08-23T16:42:31.53789Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality32,MQsensor,Parkinglot_entrance,2021-08-23T16:42:31.965642Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality33,MQsensor,Parkinglot_entrance,2021-08-23T16:42:32.362213Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality34,MQsensor,Parkinglot_entrance,2021-08-23T16:42:32.795676Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality35,MQsensor,Parkinglot_entrance,2021-08-23T16:42:33.187469Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality36,MQsensor,Parkinglot_entrance,2021-08-23T16:42:33.643758Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality37,MQsensor,Parkinglot_entrance,2021-08-23T16:42:34.03365Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality38,MQsensor,Parkinglot_entrance,2021-08-23T16:42:34.460702Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality39,MQsensor,Parkinglot_entrance,2021-08-23T16:42:34.849128Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality40,MQsensor,Parkinglot_entrance,2021-08-23T16:42:35.273766Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality41,MQsensor,Parkinglot_entrance,2021-08-23T16:42:35.667467Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality42,MQsensor,Parkinglot_entrance,2021-08-23T16:42:36.094393Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality43,MQsensor,Parkinglot_entrance,2021-08-23T16:42:36.514557Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality44,MQsensor,Parkinglot_entrance,2021-08-23T16:42:36.970792Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality45,MQsensor,Parkinglot_entrance,2021-08-23T16:42:37.378262Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality46,MQsensor,Parkinglot_entrance,2021-08-23T16:42:37.811191Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality47,MQsensor,Parkinglot_entrance,2021-08-23T16:42:38.197695Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality48,MQsensor,Parkinglot_entrance,2021-08-23T16:42:38.62494Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality49,MQsensor,Parkinglot_entrance,2021-08-23T16:42:39.050513Z,24,Raspberry Pi,50.77040958,6.060266709
+AirQuality50,MQsensor,Parkinglot_entrance,2021-08-23T16:42:39.473938Z,24,Raspberry Pi,50.77040958,6.060266709
+AirQuality51,MQsensor,Parkinglot_entrance,2021-08-23T16:42:39.952725Z,23,Raspberry Pi,50.77040958,6.060266709
+AirQuality52,MQsensor,Parkinglot_entrance,2021-08-23T16:42:40.403451Z,24,Raspberry Pi,50.77040958,6.060266709
+AirQuality53,MQsensor,Parkinglot_entrance,2021-08-23T16:42:40.797883Z,23,Raspberry Pi,50.77040958,6.060266709
+AirQuality54,MQsensor,Parkinglot_entrance,2021-08-23T16:42:41.248401Z,24,Raspberry Pi,50.77040958,6.060266709
+AirQuality55,MQsensor,Parkinglot_entrance,2021-08-23T16:42:41.643576Z,23,Raspberry Pi,50.77040958,6.060266709
+AirQuality56,MQsensor,Parkinglot_entrance,2021-08-23T16:42:42.06331Z,23,Raspberry Pi,50.77040958,6.060266709
+AirQuality57,MQsensor,Parkinglot_entrance,2021-08-23T16:42:42.459137Z,23,Raspberry Pi,50.77040958,6.060266709
+AirQuality58,MQsensor,Parkinglot_entrance,2021-08-23T16:42:42.886603Z,23,Raspberry Pi,50.77040958,6.060266709
+AirQuality59,MQsensor,Parkinglot_entrance,2021-08-23T16:42:43.278128Z,23,Raspberry Pi,50.77040958,6.060266709
+AirQuality60,MQsensor,Parkinglot_entrance,2021-08-23T16:42:43.704246Z,24,Raspberry Pi,50.77040958,6.060266709
+AirQuality61,MQsensor,Parkinglot_entrance,2021-08-23T16:42:44.132894Z,24,Raspberry Pi,50.77040958,6.060266709
+AirQuality62,MQsensor,Parkinglot_entrance,2021-08-23T16:42:44.559556Z,24,Raspberry Pi,50.77040958,6.060266709
+AirQuality63,MQsensor,Parkinglot_entrance,2021-08-23T16:42:44.952624Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality64,MQsensor,Parkinglot_entrance,2021-08-23T16:42:45.406634Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality65,MQsensor,Parkinglot_entrance,2021-08-23T16:42:45.797349Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality66,MQsensor,Parkinglot_entrance,2021-08-23T16:42:46.21565Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality67,MQsensor,Parkinglot_entrance,2021-08-23T16:42:46.617595Z,24,Raspberry Pi,50.77040958,6.060266709
+AirQuality68,MQsensor,Parkinglot_entrance,2021-08-23T16:42:47.035325Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality69,MQsensor,Parkinglot_entrance,2021-08-23T16:42:47.431064Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality70,MQsensor,Parkinglot_entrance,2021-08-23T16:42:47.854011Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality71,MQsensor,Parkinglot_entrance,2021-08-23T16:42:48.240929Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality72,MQsensor,Parkinglot_entrance,2021-08-23T16:42:48.657079Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality73,MQsensor,Parkinglot_entrance,2021-08-23T16:42:49.072055Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality74,MQsensor,Parkinglot_entrance,2021-08-23T16:42:49.476909Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality75,MQsensor,Parkinglot_entrance,2021-08-23T16:42:49.864338Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality76,MQsensor,Parkinglot_entrance,2021-08-23T16:42:50.278055Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality77,MQsensor,Parkinglot_entrance,2021-08-23T16:42:50.666548Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality78,MQsensor,Parkinglot_entrance,2021-08-23T16:42:51.081261Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality79,MQsensor,Parkinglot_entrance,2021-08-23T16:42:51.482767Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality80,MQsensor,Parkinglot_entrance,2021-08-23T16:42:51.901429Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality81,MQsensor,Parkinglot_entrance,2021-08-23T16:42:52.300436Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality82,MQsensor,Parkinglot_entrance,2021-08-23T16:42:52.70813Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality83,MQsensor,Parkinglot_entrance,2021-08-23T16:42:53.110963Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality84,MQsensor,Parkinglot_entrance,2021-08-23T16:42:53.531998Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality85,MQsensor,Parkinglot_entrance,2021-08-23T16:42:53.956345Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality86,MQsensor,Parkinglot_entrance,2021-08-23T16:42:54.386028Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality87,MQsensor,Parkinglot_entrance,2021-08-23T16:42:54.783793Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality88,MQsensor,Parkinglot_entrance,2021-08-23T16:42:55.227419Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality89,MQsensor,Parkinglot_entrance,2021-08-23T16:42:55.645056Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality90,MQsensor,Parkinglot_entrance,2021-08-23T16:42:56.069091Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality91,MQsensor,Parkinglot_entrance,2021-08-23T16:42:56.460855Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality92,MQsensor,Parkinglot_entrance,2021-08-23T16:42:56.912075Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality93,MQsensor,Parkinglot_entrance,2021-08-23T16:42:57.313092Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality94,MQsensor,Parkinglot_entrance,2021-08-23T16:42:57.750705Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality95,MQsensor,Parkinglot_entrance,2021-08-23T16:42:58.18827Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality96,MQsensor,Parkinglot_entrance,2021-08-23T16:42:58.618494Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality97,MQsensor,Parkinglot_entrance,2021-08-23T16:42:59.013128Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality98,MQsensor,Parkinglot_entrance,2021-08-23T16:42:59.444269Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality99,MQsensor,Parkinglot_entrance,2021-08-23T16:42:59.836281Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality100,MQsensor,Parkinglot_entrance,2021-08-23T16:43:00.254478Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality101,MQsensor,Parkinglot_entrance,2021-08-23T16:43:00.786039Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality102,MQsensor,Parkinglot_entrance,2021-08-23T16:43:01.21756Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality103,MQsensor,Parkinglot_entrance,2021-08-23T16:43:01.620953Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality104,MQsensor,Parkinglot_entrance,2021-08-23T16:43:02.049585Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality105,MQsensor,Parkinglot_entrance,2021-08-23T16:43:02.464074Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality106,MQsensor,Parkinglot_entrance,2021-08-23T16:43:02.881087Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality107,MQsensor,Parkinglot_entrance,2021-08-23T16:43:03.269641Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality108,MQsensor,Parkinglot_entrance,2021-08-23T16:43:03.687769Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality109,MQsensor,Parkinglot_entrance,2021-08-23T16:43:04.088391Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality110,MQsensor,Parkinglot_entrance,2021-08-23T16:43:04.51948Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality111,MQsensor,Parkinglot_entrance,2021-08-23T16:43:04.91149Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality112,MQsensor,Parkinglot_entrance,2021-08-23T16:43:05.327218Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality113,MQsensor,Parkinglot_entrance,2021-08-23T16:43:05.721469Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality114,MQsensor,Parkinglot_entrance,2021-08-23T16:43:06.130198Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality115,MQsensor,Parkinglot_entrance,2021-08-23T16:43:06.524223Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality116,MQsensor,Parkinglot_entrance,2021-08-23T16:43:06.929502Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality117,MQsensor,Parkinglot_entrance,2021-08-23T16:43:07.344335Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality118,MQsensor,Parkinglot_entrance,2021-08-23T16:43:07.756692Z,24,Raspberry Pi,50.77040958,6.060266709
+AirQuality119,MQsensor,Parkinglot_entrance,2021-08-23T16:43:08.159469Z,24,Raspberry Pi,50.77040958,6.060266709
+AirQuality120,MQsensor,Parkinglot_entrance,2021-08-23T16:43:08.585396Z,24,Raspberry Pi,50.77040958,6.060266709
+AirQuality121,MQsensor,Parkinglot_entrance,2021-08-23T16:43:08.97942Z,24,Raspberry Pi,50.77040958,6.060266709
+AirQuality122,MQsensor,Parkinglot_entrance,2021-08-23T16:43:09.426915Z,24,Raspberry Pi,50.77040958,6.060266709
+AirQuality123,MQsensor,Parkinglot_entrance,2021-08-23T16:43:09.824626Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality124,MQsensor,Parkinglot_entrance,2021-08-23T16:43:10.252079Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality125,MQsensor,Parkinglot_entrance,2021-08-23T16:43:10.65506Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality126,MQsensor,Parkinglot_entrance,2021-08-23T16:43:11.073128Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality127,MQsensor,Parkinglot_entrance,2021-08-23T16:43:11.465281Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality128,MQsensor,Parkinglot_entrance,2021-08-23T16:43:11.889603Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality129,MQsensor,Parkinglot_entrance,2021-08-23T16:43:12.279828Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality130,MQsensor,Parkinglot_entrance,2021-08-23T16:43:12.693532Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality131,MQsensor,Parkinglot_entrance,2021-08-23T16:43:13.097748Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality132,MQsensor,Parkinglot_entrance,2021-08-23T16:43:13.529673Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality133,MQsensor,Parkinglot_entrance,2021-08-23T16:43:13.924337Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality134,MQsensor,Parkinglot_entrance,2021-08-23T16:43:14.340583Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality135,MQsensor,Parkinglot_entrance,2021-08-23T16:43:14.769955Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality136,MQsensor,Parkinglot_entrance,2021-08-23T16:43:15.219348Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality137,MQsensor,Parkinglot_entrance,2021-08-23T16:43:15.646259Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality138,MQsensor,Parkinglot_entrance,2021-08-23T16:43:16.088994Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality139,MQsensor,Parkinglot_entrance,2021-08-23T16:43:16.513352Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality140,MQsensor,Parkinglot_entrance,2021-08-23T16:43:16.941135Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality141,MQsensor,Parkinglot_entrance,2021-08-23T16:43:17.335725Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality142,MQsensor,Parkinglot_entrance,2021-08-23T16:43:17.757082Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality143,MQsensor,Parkinglot_entrance,2021-08-23T16:43:18.152575Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality144,MQsensor,Parkinglot_entrance,2021-08-23T16:43:18.596488Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality145,MQsensor,Parkinglot_entrance,2021-08-23T16:43:18.999352Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality146,MQsensor,Parkinglot_entrance,2021-08-23T16:43:19.430896Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality147,MQsensor,Parkinglot_entrance,2021-08-23T16:43:19.897221Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality148,MQsensor,Parkinglot_entrance,2021-08-23T16:43:20.32286Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality149,MQsensor,Parkinglot_entrance,2021-08-23T16:43:20.714736Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality150,MQsensor,Parkinglot_entrance,2021-08-23T16:43:21.173788Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality151,MQsensor,Parkinglot_entrance,2021-08-23T16:43:21.644779Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality152,MQsensor,Parkinglot_entrance,2021-08-23T16:43:22.107798Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality153,MQsensor,Parkinglot_entrance,2021-08-23T16:43:22.67582Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality154,MQsensor,Parkinglot_entrance,2021-08-23T16:43:23.225979Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality155,MQsensor,Parkinglot_entrance,2021-08-23T16:43:23.742Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality156,MQsensor,Parkinglot_entrance,2021-08-23T16:43:24.264241Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality157,MQsensor,Parkinglot_entrance,2021-08-23T16:43:24.812278Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality158,MQsensor,Parkinglot_entrance,2021-08-23T16:43:25.201507Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality159,MQsensor,Parkinglot_entrance,2021-08-23T16:43:25.600964Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality160,MQsensor,Parkinglot_entrance,2021-08-23T16:43:26.023593Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality161,MQsensor,Parkinglot_entrance,2021-08-23T16:43:26.451691Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality162,MQsensor,Parkinglot_entrance,2021-08-23T16:43:26.921615Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality163,MQsensor,Parkinglot_entrance,2021-08-23T16:43:27.320356Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality164,MQsensor,Parkinglot_entrance,2021-08-23T16:43:27.754614Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality165,MQsensor,Parkinglot_entrance,2021-08-23T16:43:28.151554Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality166,MQsensor,Parkinglot_entrance,2021-08-23T16:43:28.564969Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality167,MQsensor,Parkinglot_entrance,2021-08-23T16:43:28.956491Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality168,MQsensor,Parkinglot_entrance,2021-08-23T16:43:29.356667Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality169,MQsensor,Parkinglot_entrance,2021-08-23T16:43:29.774082Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality170,MQsensor,Parkinglot_entrance,2021-08-23T16:43:30.165892Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality171,MQsensor,Parkinglot_entrance,2021-08-23T16:43:30.61133Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality172,MQsensor,Parkinglot_entrance,2021-08-23T16:43:31.008047Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality173,MQsensor,Parkinglot_entrance,2021-08-23T16:43:31.434359Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality174,MQsensor,Parkinglot_entrance,2021-08-23T16:43:31.826664Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality175,MQsensor,Parkinglot_entrance,2021-08-23T16:43:32.256538Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality176,MQsensor,Parkinglot_entrance,2021-08-23T16:43:32.653008Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality177,MQsensor,Parkinglot_entrance,2021-08-23T16:43:33.074845Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality178,MQsensor,Parkinglot_entrance,2021-08-23T16:43:33.488073Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality179,MQsensor,Parkinglot_entrance,2021-08-23T16:43:33.962086Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality180,MQsensor,Parkinglot_entrance,2021-08-23T16:43:34.351924Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality181,MQsensor,Parkinglot_entrance,2021-08-23T16:43:34.792954Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality182,MQsensor,Parkinglot_entrance,2021-08-23T16:43:35.181436Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality183,MQsensor,Parkinglot_entrance,2021-08-23T16:43:35.605107Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality184,MQsensor,Parkinglot_entrance,2021-08-23T16:43:36.032577Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality185,MQsensor,Parkinglot_entrance,2021-08-23T16:43:36.486813Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality186,MQsensor,Parkinglot_entrance,2021-08-23T16:43:36.893776Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality187,MQsensor,Parkinglot_entrance,2021-08-23T16:43:37.328126Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality188,MQsensor,Parkinglot_entrance,2021-08-23T16:43:37.730264Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality189,MQsensor,Parkinglot_entrance,2021-08-23T16:43:38.358051Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality190,MQsensor,Parkinglot_entrance,2021-08-23T16:43:38.756126Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality191,MQsensor,Parkinglot_entrance,2021-08-23T16:43:39.152721Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality192,MQsensor,Parkinglot_entrance,2021-08-23T16:43:39.59244Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality193,MQsensor,Parkinglot_entrance,2021-08-23T16:43:39.985334Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality194,MQsensor,Parkinglot_entrance,2021-08-23T16:43:40.41277Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality195,MQsensor,Parkinglot_entrance,2021-08-23T16:43:40.806935Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality196,MQsensor,Parkinglot_entrance,2021-08-23T16:43:41.239081Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality197,MQsensor,Parkinglot_entrance,2021-08-23T16:43:41.63534Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality198,MQsensor,Parkinglot_entrance,2021-08-23T16:43:42.066193Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality199,MQsensor,Parkinglot_entrance,2021-08-23T16:43:42.473082Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality200,MQsensor,Parkinglot_entrance,2021-08-23T16:43:42.897135Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality201,MQsensor,Parkinglot_entrance,2021-08-23T16:43:43.295629Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality202,MQsensor,Parkinglot_entrance,2021-08-23T16:43:43.708306Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality203,MQsensor,Parkinglot_entrance,2021-08-23T16:43:44.108736Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality204,MQsensor,Parkinglot_entrance,2021-08-23T16:43:44.536156Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality205,MQsensor,Parkinglot_entrance,2021-08-23T16:43:44.93819Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality206,MQsensor,Parkinglot_entrance,2021-08-23T16:43:45.42338Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality207,MQsensor,Parkinglot_entrance,2021-08-23T16:43:45.834548Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality208,MQsensor,Parkinglot_entrance,2021-08-23T16:43:46.257492Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality209,MQsensor,Parkinglot_entrance,2021-08-23T16:43:46.670263Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality210,MQsensor,Parkinglot_entrance,2021-08-23T16:43:47.12445Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality211,MQsensor,Parkinglot_entrance,2021-08-23T16:43:47.525894Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality212,MQsensor,Parkinglot_entrance,2021-08-23T16:43:47.960766Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality213,MQsensor,Parkinglot_entrance,2021-08-23T16:43:48.367846Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality214,MQsensor,Parkinglot_entrance,2021-08-23T16:43:48.787107Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality215,MQsensor,Parkinglot_entrance,2021-08-23T16:43:49.218465Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality216,MQsensor,Parkinglot_entrance,2021-08-23T16:43:49.672687Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality217,MQsensor,Parkinglot_entrance,2021-08-23T16:43:50.070885Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality218,MQsensor,Parkinglot_entrance,2021-08-23T16:43:50.514685Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality219,MQsensor,Parkinglot_entrance,2021-08-23T16:43:50.904678Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality220,MQsensor,Parkinglot_entrance,2021-08-23T16:43:51.318603Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality221,MQsensor,Parkinglot_entrance,2021-08-23T16:43:51.750285Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality222,MQsensor,Parkinglot_entrance,2021-08-23T16:43:52.204619Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality223,MQsensor,Parkinglot_entrance,2021-08-23T16:43:52.599874Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality224,MQsensor,Parkinglot_entrance,2021-08-23T16:43:53.055763Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality225,MQsensor,Parkinglot_entrance,2021-08-23T16:43:53.450001Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality226,MQsensor,Parkinglot_entrance,2021-08-23T16:43:53.879055Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality227,MQsensor,Parkinglot_entrance,2021-08-23T16:43:54.302658Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality228,MQsensor,Parkinglot_entrance,2021-08-23T16:43:54.760968Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality229,MQsensor,Parkinglot_entrance,2021-08-23T16:43:55.157775Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality230,MQsensor,Parkinglot_entrance,2021-08-23T16:43:55.600353Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality231,MQsensor,Parkinglot_entrance,2021-08-23T16:43:56.001115Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality232,MQsensor,Parkinglot_entrance,2021-08-23T16:43:56.418546Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality233,MQsensor,Parkinglot_entrance,2021-08-23T16:43:56.866099Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality234,MQsensor,Parkinglot_entrance,2021-08-23T16:43:57.275877Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality235,MQsensor,Parkinglot_entrance,2021-08-23T16:43:57.66707Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality236,MQsensor,Parkinglot_entrance,2021-08-23T16:43:58.111736Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality237,MQsensor,Parkinglot_entrance,2021-08-23T16:43:58.502728Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality238,MQsensor,Parkinglot_entrance,2021-08-23T16:43:58.947361Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality239,MQsensor,Parkinglot_entrance,2021-08-23T16:43:59.387765Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality240,MQsensor,Parkinglot_entrance,2021-08-23T16:43:59.81448Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality241,MQsensor,Parkinglot_entrance,2021-08-23T16:44:00.209101Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality242,MQsensor,Parkinglot_entrance,2021-08-23T16:44:00.653768Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality243,MQsensor,Parkinglot_entrance,2021-08-23T16:44:01.046981Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality244,MQsensor,Parkinglot_entrance,2021-08-23T16:44:01.460022Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality245,MQsensor,Parkinglot_entrance,2021-08-23T16:44:01.863906Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality246,MQsensor,Parkinglot_entrance,2021-08-23T16:44:02.307848Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality247,MQsensor,Parkinglot_entrance,2021-08-23T16:44:02.704901Z,27,Raspberry Pi,50.77040958,6.060266709
+AirQuality248,MQsensor,Parkinglot_entrance,2021-08-23T16:44:03.235549Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality249,MQsensor,Parkinglot_entrance,2021-08-23T16:44:03.632228Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality250,MQsensor,Parkinglot_entrance,2021-08-23T16:44:04.10231Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality251,MQsensor,Parkinglot_entrance,2021-08-23T16:44:04.519236Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality252,MQsensor,Parkinglot_entrance,2021-08-23T16:44:04.968689Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality253,MQsensor,Parkinglot_entrance,2021-08-23T16:44:05.370439Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality254,MQsensor,Parkinglot_entrance,2021-08-23T16:44:05.809874Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality255,MQsensor,Parkinglot_entrance,2021-08-23T16:44:06.206914Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality256,MQsensor,Parkinglot_entrance,2021-08-23T16:44:06.64439Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality257,MQsensor,Parkinglot_entrance,2021-08-23T16:44:07.087216Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality258,MQsensor,Parkinglot_entrance,2021-08-23T16:44:07.514436Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality259,MQsensor,Parkinglot_entrance,2021-08-23T16:44:07.953429Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality260,MQsensor,Parkinglot_entrance,2021-08-23T16:44:08.405738Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality261,MQsensor,Parkinglot_entrance,2021-08-23T16:44:08.823451Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality262,MQsensor,Parkinglot_entrance,2021-08-23T16:44:09.242916Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality263,MQsensor,Parkinglot_entrance,2021-08-23T16:44:09.646737Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality264,MQsensor,Parkinglot_entrance,2021-08-23T16:44:10.069331Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality265,MQsensor,Parkinglot_entrance,2021-08-23T16:44:10.465223Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality266,MQsensor,Parkinglot_entrance,2021-08-23T16:44:10.905464Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality267,MQsensor,Parkinglot_entrance,2021-08-23T16:44:11.338283Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality268,MQsensor,Parkinglot_entrance,2021-08-23T16:44:11.781336Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality269,MQsensor,Parkinglot_entrance,2021-08-23T16:44:12.192817Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality270,MQsensor,Parkinglot_entrance,2021-08-23T16:44:12.631805Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality271,MQsensor,Parkinglot_entrance,2021-08-23T16:44:13.058045Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality272,MQsensor,Parkinglot_entrance,2021-08-23T16:44:13.516346Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality273,MQsensor,Parkinglot_entrance,2021-08-23T16:44:13.923034Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality274,MQsensor,Parkinglot_entrance,2021-08-23T16:44:14.37048Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality275,MQsensor,Parkinglot_entrance,2021-08-23T16:44:14.767497Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality276,MQsensor,Parkinglot_entrance,2021-08-23T16:44:15.212245Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality277,MQsensor,Parkinglot_entrance,2021-08-23T16:44:15.610968Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality278,MQsensor,Parkinglot_entrance,2021-08-23T16:44:16.042919Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality279,MQsensor,Parkinglot_entrance,2021-08-23T16:44:16.446262Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality280,MQsensor,Parkinglot_entrance,2021-08-23T16:44:16.859442Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality281,MQsensor,Parkinglot_entrance,2021-08-23T16:44:17.267679Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality282,MQsensor,Parkinglot_entrance,2021-08-23T16:44:17.698768Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality283,MQsensor,Parkinglot_entrance,2021-08-23T16:44:18.100082Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality284,MQsensor,Parkinglot_entrance,2021-08-23T16:44:18.562978Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality285,MQsensor,Parkinglot_entrance,2021-08-23T16:44:18.972489Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality286,MQsensor,Parkinglot_entrance,2021-08-23T16:44:19.39837Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality287,MQsensor,Parkinglot_entrance,2021-08-23T16:44:19.818711Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality288,MQsensor,Parkinglot_entrance,2021-08-23T16:44:20.261725Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality289,MQsensor,Parkinglot_entrance,2021-08-23T16:44:20.666893Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality290,MQsensor,Parkinglot_entrance,2021-08-23T16:44:21.150338Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality291,MQsensor,Parkinglot_entrance,2021-08-23T16:44:21.545174Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality292,MQsensor,Parkinglot_entrance,2021-08-23T16:44:21.985352Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality293,MQsensor,Parkinglot_entrance,2021-08-23T16:44:22.523735Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality294,MQsensor,Parkinglot_entrance,2021-08-23T16:44:23.100014Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality295,MQsensor,Parkinglot_entrance,2021-08-23T16:44:23.785399Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality296,MQsensor,Parkinglot_entrance,2021-08-23T16:44:24.293204Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality297,MQsensor,Parkinglot_entrance,2021-08-23T16:44:24.816433Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality298,MQsensor,Parkinglot_entrance,2021-08-23T16:44:25.223557Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality299,MQsensor,Parkinglot_entrance,2021-08-23T16:44:25.67261Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality300,MQsensor,Parkinglot_entrance,2021-08-23T16:44:26.068405Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality301,MQsensor,Parkinglot_entrance,2021-08-23T16:44:26.50304Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality302,MQsensor,Parkinglot_entrance,2021-08-23T16:44:26.901038Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality303,MQsensor,Parkinglot_entrance,2021-08-23T16:44:27.346818Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality304,MQsensor,Parkinglot_entrance,2021-08-23T16:44:27.746779Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality305,MQsensor,Parkinglot_entrance,2021-08-23T16:44:28.172683Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality306,MQsensor,Parkinglot_entrance,2021-08-23T16:44:28.570321Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality307,MQsensor,Parkinglot_entrance,2021-08-23T16:44:28.992026Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality308,MQsensor,Parkinglot_entrance,2021-08-23T16:44:29.40554Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality309,MQsensor,Parkinglot_entrance,2021-08-23T16:44:29.831932Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality310,MQsensor,Parkinglot_entrance,2021-08-23T16:44:30.242725Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality311,MQsensor,Parkinglot_entrance,2021-08-23T16:44:30.685972Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality312,MQsensor,Parkinglot_entrance,2021-08-23T16:44:31.110436Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality313,MQsensor,Parkinglot_entrance,2021-08-23T16:44:31.506035Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality314,MQsensor,Parkinglot_entrance,2021-08-23T16:44:31.952967Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality315,MQsensor,Parkinglot_entrance,2021-08-23T16:44:32.362769Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality316,MQsensor,Parkinglot_entrance,2021-08-23T16:44:32.834783Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality317,MQsensor,Parkinglot_entrance,2021-08-23T16:44:33.267393Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality318,MQsensor,Parkinglot_entrance,2021-08-23T16:44:33.724241Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality319,MQsensor,Parkinglot_entrance,2021-08-23T16:44:34.113742Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality320,MQsensor,Parkinglot_entrance,2021-08-23T16:44:34.550358Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality321,MQsensor,Parkinglot_entrance,2021-08-23T16:44:34.962989Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality322,MQsensor,Parkinglot_entrance,2021-08-23T16:44:35.385414Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality323,MQsensor,Parkinglot_entrance,2021-08-23T16:44:35.787896Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality324,MQsensor,Parkinglot_entrance,2021-08-23T16:44:36.211078Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality325,MQsensor,Parkinglot_entrance,2021-08-23T16:44:36.618958Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality326,MQsensor,Parkinglot_entrance,2021-08-23T16:44:37.056237Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality327,MQsensor,Parkinglot_entrance,2021-08-23T16:44:37.452451Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality328,MQsensor,Parkinglot_entrance,2021-08-23T16:44:37.876724Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality329,MQsensor,Parkinglot_entrance,2021-08-23T16:44:38.271862Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality330,MQsensor,Parkinglot_entrance,2021-08-23T16:44:38.722454Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality331,MQsensor,Parkinglot_entrance,2021-08-23T16:44:39.120296Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality332,MQsensor,Parkinglot_entrance,2021-08-23T16:44:39.553174Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality333,MQsensor,Parkinglot_entrance,2021-08-23T16:44:39.95784Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality334,MQsensor,Parkinglot_entrance,2021-08-23T16:44:40.396153Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality335,MQsensor,Parkinglot_entrance,2021-08-23T16:44:40.794858Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality336,MQsensor,Parkinglot_entrance,2021-08-23T16:44:41.250326Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality337,MQsensor,Parkinglot_entrance,2021-08-23T16:44:41.651301Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality338,MQsensor,Parkinglot_entrance,2021-08-23T16:44:42.086865Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality339,MQsensor,Parkinglot_entrance,2021-08-23T16:44:42.486158Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality340,MQsensor,Parkinglot_entrance,2021-08-23T16:44:42.929021Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality341,MQsensor,Parkinglot_entrance,2021-08-23T16:44:43.330352Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality342,MQsensor,Parkinglot_entrance,2021-08-23T16:44:43.765887Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality343,MQsensor,Parkinglot_entrance,2021-08-23T16:44:44.169098Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality344,MQsensor,Parkinglot_entrance,2021-08-23T16:44:44.615498Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality345,MQsensor,Parkinglot_entrance,2021-08-23T16:44:45.016416Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality346,MQsensor,Parkinglot_entrance,2021-08-23T16:44:45.453137Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality347,MQsensor,Parkinglot_entrance,2021-08-23T16:44:45.857633Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality348,MQsensor,Parkinglot_entrance,2021-08-23T16:44:46.299628Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality349,MQsensor,Parkinglot_entrance,2021-08-23T16:44:46.715988Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality350,MQsensor,Parkinglot_entrance,2021-08-23T16:44:47.167714Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality351,MQsensor,Parkinglot_entrance,2021-08-23T16:44:47.597436Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality352,MQsensor,Parkinglot_entrance,2021-08-23T16:44:48.039826Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality353,MQsensor,Parkinglot_entrance,2021-08-23T16:44:48.43979Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality354,MQsensor,Parkinglot_entrance,2021-08-23T16:44:48.886018Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality355,MQsensor,Parkinglot_entrance,2021-08-23T16:44:49.315447Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality356,MQsensor,Parkinglot_entrance,2021-08-23T16:44:49.759022Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality357,MQsensor,Parkinglot_entrance,2021-08-23T16:44:50.167365Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality358,MQsensor,Parkinglot_entrance,2021-08-23T16:44:50.606555Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality359,MQsensor,Parkinglot_entrance,2021-08-23T16:44:51.013465Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality360,MQsensor,Parkinglot_entrance,2021-08-23T16:44:51.46858Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality361,MQsensor,Parkinglot_entrance,2021-08-23T16:44:51.870251Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality362,MQsensor,Parkinglot_entrance,2021-08-23T16:44:52.310097Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality363,MQsensor,Parkinglot_entrance,2021-08-23T16:44:52.720435Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality364,MQsensor,Parkinglot_entrance,2021-08-23T16:44:53.140355Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality365,MQsensor,Parkinglot_entrance,2021-08-23T16:44:53.569095Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality366,MQsensor,Parkinglot_entrance,2021-08-23T16:44:54.015995Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality367,MQsensor,Parkinglot_entrance,2021-08-23T16:44:54.41084Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality368,MQsensor,Parkinglot_entrance,2021-08-23T16:44:54.84089Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality369,MQsensor,Parkinglot_entrance,2021-08-23T16:44:55.242824Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality370,MQsensor,Parkinglot_entrance,2021-08-23T16:44:55.669374Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality371,MQsensor,Parkinglot_entrance,2021-08-23T16:44:56.077053Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality372,MQsensor,Parkinglot_entrance,2021-08-23T16:44:56.512161Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality373,MQsensor,Parkinglot_entrance,2021-08-23T16:44:56.913724Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality374,MQsensor,Parkinglot_entrance,2021-08-23T16:44:57.406433Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality375,MQsensor,Parkinglot_entrance,2021-08-23T16:44:57.842098Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality376,MQsensor,Parkinglot_entrance,2021-08-23T16:44:58.306166Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality377,MQsensor,Parkinglot_entrance,2021-08-23T16:44:58.721799Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality378,MQsensor,Parkinglot_entrance,2021-08-23T16:44:59.192609Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality379,MQsensor,Parkinglot_entrance,2021-08-23T16:44:59.662383Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality380,MQsensor,Parkinglot_entrance,2021-08-23T16:45:00.111419Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality381,MQsensor,Parkinglot_entrance,2021-08-23T16:45:00.541591Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality382,MQsensor,Parkinglot_entrance,2021-08-23T16:45:01.008455Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality383,MQsensor,Parkinglot_entrance,2021-08-23T16:45:01.410112Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality384,MQsensor,Parkinglot_entrance,2021-08-23T16:45:01.846927Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality385,MQsensor,Parkinglot_entrance,2021-08-23T16:45:02.251926Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality386,MQsensor,Parkinglot_entrance,2021-08-23T16:45:02.710026Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality387,MQsensor,Parkinglot_entrance,2021-08-23T16:45:03.153889Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality388,MQsensor,Parkinglot_entrance,2021-08-23T16:45:03.601943Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality389,MQsensor,Parkinglot_entrance,2021-08-23T16:45:04.0082Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality390,MQsensor,Parkinglot_entrance,2021-08-23T16:45:04.473377Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality391,MQsensor,Parkinglot_entrance,2021-08-23T16:45:04.878593Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality392,MQsensor,Parkinglot_entrance,2021-08-23T16:45:05.295598Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality393,MQsensor,Parkinglot_entrance,2021-08-23T16:45:05.805639Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality394,MQsensor,Parkinglot_entrance,2021-08-23T16:45:06.284067Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality395,MQsensor,Parkinglot_entrance,2021-08-23T16:45:06.704829Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality396,MQsensor,Parkinglot_entrance,2021-08-23T16:45:07.16196Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality397,MQsensor,Parkinglot_entrance,2021-08-23T16:45:07.572462Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality398,MQsensor,Parkinglot_entrance,2021-08-23T16:45:08.015971Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality399,MQsensor,Parkinglot_entrance,2021-08-23T16:45:08.433081Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality400,MQsensor,Parkinglot_entrance,2021-08-23T16:45:08.859456Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality401,MQsensor,Parkinglot_entrance,2021-08-23T16:45:09.273026Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality402,MQsensor,Parkinglot_entrance,2021-08-23T16:45:09.733935Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality403,MQsensor,Parkinglot_entrance,2021-08-23T16:45:10.167191Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality404,MQsensor,Parkinglot_entrance,2021-08-23T16:45:10.612267Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality405,MQsensor,Parkinglot_entrance,2021-08-23T16:45:11.016058Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality406,MQsensor,Parkinglot_entrance,2021-08-23T16:45:11.469554Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality407,MQsensor,Parkinglot_entrance,2021-08-23T16:45:11.879341Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality408,MQsensor,Parkinglot_entrance,2021-08-23T16:45:12.300124Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality409,MQsensor,Parkinglot_entrance,2021-08-23T16:45:12.706487Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality410,MQsensor,Parkinglot_entrance,2021-08-23T16:45:13.142141Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality411,MQsensor,Parkinglot_entrance,2021-08-23T16:45:13.552863Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality412,MQsensor,Parkinglot_entrance,2021-08-23T16:45:13.986651Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality413,MQsensor,Parkinglot_entrance,2021-08-23T16:45:14.393601Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality414,MQsensor,Parkinglot_entrance,2021-08-23T16:45:14.834787Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality415,MQsensor,Parkinglot_entrance,2021-08-23T16:45:15.227111Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality416,MQsensor,Parkinglot_entrance,2021-08-23T16:45:15.648805Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality417,MQsensor,Parkinglot_entrance,2021-08-23T16:45:16.057333Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality418,MQsensor,Parkinglot_entrance,2021-08-23T16:45:16.510615Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality419,MQsensor,Parkinglot_entrance,2021-08-23T16:45:16.914424Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality420,MQsensor,Parkinglot_entrance,2021-08-23T16:45:17.357141Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality421,MQsensor,Parkinglot_entrance,2021-08-23T16:45:17.762736Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality422,MQsensor,Parkinglot_entrance,2021-08-23T16:45:18.189259Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality423,MQsensor,Parkinglot_entrance,2021-08-23T16:45:18.597166Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality424,MQsensor,Parkinglot_entrance,2021-08-23T16:45:19.046287Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality425,MQsensor,Parkinglot_entrance,2021-08-23T16:45:19.454235Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality426,MQsensor,Parkinglot_entrance,2021-08-23T16:45:19.901456Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality427,MQsensor,Parkinglot_entrance,2021-08-23T16:45:20.303302Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality428,MQsensor,Parkinglot_entrance,2021-08-23T16:45:20.741705Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality429,MQsensor,Parkinglot_entrance,2021-08-23T16:45:21.157525Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality430,MQsensor,Parkinglot_entrance,2021-08-23T16:45:21.674081Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality431,MQsensor,Parkinglot_entrance,2021-08-23T16:45:22.106696Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality432,MQsensor,Parkinglot_entrance,2021-08-23T16:45:22.559916Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality433,MQsensor,Parkinglot_entrance,2021-08-23T16:45:23.063251Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality434,MQsensor,Parkinglot_entrance,2021-08-23T16:45:23.59562Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality435,MQsensor,Parkinglot_entrance,2021-08-23T16:45:24.125758Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality436,MQsensor,Parkinglot_entrance,2021-08-23T16:45:24.64598Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality437,MQsensor,Parkinglot_entrance,2021-08-23T16:45:25.087227Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality438,MQsensor,Parkinglot_entrance,2021-08-23T16:45:25.494565Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality439,MQsensor,Parkinglot_entrance,2021-08-23T16:45:25.940695Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality440,MQsensor,Parkinglot_entrance,2021-08-23T16:45:26.359346Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality441,MQsensor,Parkinglot_entrance,2021-08-23T16:45:26.795932Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality442,MQsensor,Parkinglot_entrance,2021-08-23T16:45:27.195844Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality443,MQsensor,Parkinglot_entrance,2021-08-23T16:45:27.620165Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality444,MQsensor,Parkinglot_entrance,2021-08-23T16:45:28.021096Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality445,MQsensor,Parkinglot_entrance,2021-08-23T16:45:28.466712Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality446,MQsensor,Parkinglot_entrance,2021-08-23T16:45:28.89046Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality447,MQsensor,Parkinglot_entrance,2021-08-23T16:45:29.327155Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality448,MQsensor,Parkinglot_entrance,2021-08-23T16:45:29.724816Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality449,MQsensor,Parkinglot_entrance,2021-08-23T16:45:30.350583Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality450,MQsensor,Parkinglot_entrance,2021-08-23T16:45:30.78331Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality451,MQsensor,Parkinglot_entrance,2021-08-23T16:45:31.231669Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality452,MQsensor,Parkinglot_entrance,2021-08-23T16:45:31.637263Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality453,MQsensor,Parkinglot_entrance,2021-08-23T16:45:32.045833Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality454,MQsensor,Parkinglot_entrance,2021-08-23T16:45:32.498236Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality455,MQsensor,Parkinglot_entrance,2021-08-23T16:45:32.901707Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality456,MQsensor,Parkinglot_entrance,2021-08-23T16:45:33.351247Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality457,MQsensor,Parkinglot_entrance,2021-08-23T16:45:33.807986Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality458,MQsensor,Parkinglot_entrance,2021-08-23T16:45:34.261836Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality459,MQsensor,Parkinglot_entrance,2021-08-23T16:45:34.655568Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality460,MQsensor,Parkinglot_entrance,2021-08-23T16:45:35.085835Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality461,MQsensor,Parkinglot_entrance,2021-08-23T16:45:35.513141Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality462,MQsensor,Parkinglot_entrance,2021-08-23T16:45:35.97795Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality463,MQsensor,Parkinglot_entrance,2021-08-23T16:45:36.408239Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality464,MQsensor,Parkinglot_entrance,2021-08-23T16:45:36.855301Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality465,MQsensor,Parkinglot_entrance,2021-08-23T16:45:37.26236Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality466,MQsensor,Parkinglot_entrance,2021-08-23T16:45:37.696752Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality467,MQsensor,Parkinglot_entrance,2021-08-23T16:45:38.095977Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality468,MQsensor,Parkinglot_entrance,2021-08-23T16:45:38.522408Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality469,MQsensor,Parkinglot_entrance,2021-08-23T16:45:38.956837Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality470,MQsensor,Parkinglot_entrance,2021-08-23T16:45:39.414633Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality471,MQsensor,Parkinglot_entrance,2021-08-23T16:45:39.850273Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality472,MQsensor,Parkinglot_entrance,2021-08-23T16:45:40.306039Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality473,MQsensor,Parkinglot_entrance,2021-08-23T16:45:40.709598Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality474,MQsensor,Parkinglot_entrance,2021-08-23T16:45:41.155825Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality475,MQsensor,Parkinglot_entrance,2021-08-23T16:45:41.578059Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality476,MQsensor,Parkinglot_entrance,2021-08-23T16:45:42.02833Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality477,MQsensor,Parkinglot_entrance,2021-08-23T16:45:42.433737Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality478,MQsensor,Parkinglot_entrance,2021-08-23T16:45:42.87559Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality479,MQsensor,Parkinglot_entrance,2021-08-23T16:45:43.283351Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality480,MQsensor,Parkinglot_entrance,2021-08-23T16:45:43.720703Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality481,MQsensor,Parkinglot_entrance,2021-08-23T16:45:44.124841Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality482,MQsensor,Parkinglot_entrance,2021-08-23T16:45:44.561655Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality483,MQsensor,Parkinglot_entrance,2021-08-23T16:45:44.961203Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality484,MQsensor,Parkinglot_entrance,2021-08-23T16:45:45.416003Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality485,MQsensor,Parkinglot_entrance,2021-08-23T16:45:45.837206Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality486,MQsensor,Parkinglot_entrance,2021-08-23T16:45:46.27247Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality487,MQsensor,Parkinglot_entrance,2021-08-23T16:45:46.682427Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality488,MQsensor,Parkinglot_entrance,2021-08-23T16:45:47.159503Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality489,MQsensor,Parkinglot_entrance,2021-08-23T16:45:47.581371Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality490,MQsensor,Parkinglot_entrance,2021-08-23T16:45:48.013551Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality491,MQsensor,Parkinglot_entrance,2021-08-23T16:45:48.40635Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality492,MQsensor,Parkinglot_entrance,2021-08-23T16:45:48.842305Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality493,MQsensor,Parkinglot_entrance,2021-08-23T16:45:49.247551Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality494,MQsensor,Parkinglot_entrance,2021-08-23T16:45:49.687063Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality495,MQsensor,Parkinglot_entrance,2021-08-23T16:45:50.097566Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality496,MQsensor,Parkinglot_entrance,2021-08-23T16:45:50.524441Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality497,MQsensor,Parkinglot_entrance,2021-08-23T16:45:50.939972Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality498,MQsensor,Parkinglot_entrance,2021-08-23T16:45:51.373817Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality499,MQsensor,Parkinglot_entrance,2021-08-23T16:45:51.786179Z,25,Raspberry Pi,50.77040958,6.060266709
+AirQuality500,MQsensor,Parkinglot_entrance,2021-08-23T16:45:52.230991Z,26,Raspberry Pi,50.77040958,6.060266709
+AirQuality501,MQsensor,Parkinglot_center,2021-08-23T16:34:16.751811Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality502,MQsensor,Parkinglot_center,2021-08-23T16:34:17.1289Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality503,MQsensor,Parkinglot_center,2021-08-23T16:34:17.529061Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality504,MQsensor,Parkinglot_center,2021-08-23T16:34:17.941932Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality505,MQsensor,Parkinglot_center,2021-08-23T16:34:18.318351Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality506,MQsensor,Parkinglot_center,2021-08-23T16:34:18.680775Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality507,MQsensor,Parkinglot_center,2021-08-23T16:34:19.12866Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality508,MQsensor,Parkinglot_center,2021-08-23T16:34:19.494414Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality509,MQsensor,Parkinglot_center,2021-08-23T16:34:19.867087Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality510,MQsensor,Parkinglot_center,2021-08-23T16:34:20.240212Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality511,MQsensor,Parkinglot_center,2021-08-23T16:34:20.670119Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality512,MQsensor,Parkinglot_center,2021-08-23T16:34:21.229091Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality513,MQsensor,Parkinglot_center,2021-08-23T16:34:21.753179Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality514,MQsensor,Parkinglot_center,2021-08-23T16:34:22.14121Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality515,MQsensor,Parkinglot_center,2021-08-23T16:34:22.635534Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality516,MQsensor,Parkinglot_center,2021-08-23T16:34:23.020585Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality517,MQsensor,Parkinglot_center,2021-08-23T16:34:23.392652Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality518,MQsensor,Parkinglot_center,2021-08-23T16:34:23.894232Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality519,MQsensor,Parkinglot_center,2021-08-23T16:34:24.286398Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality520,MQsensor,Parkinglot_center,2021-08-23T16:34:24.775699Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality521,MQsensor,Parkinglot_center,2021-08-23T16:34:25.171071Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality522,MQsensor,Parkinglot_center,2021-08-23T16:34:25.535094Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality523,MQsensor,Parkinglot_center,2021-08-23T16:34:25.932564Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality524,MQsensor,Parkinglot_center,2021-08-23T16:34:26.299164Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality525,MQsensor,Parkinglot_center,2021-08-23T16:34:26.666215Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality526,MQsensor,Parkinglot_center,2021-08-23T16:34:27.033455Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality527,MQsensor,Parkinglot_center,2021-08-23T16:34:27.408628Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality528,MQsensor,Parkinglot_center,2021-08-23T16:34:27.81198Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality529,MQsensor,Parkinglot_center,2021-08-23T16:34:28.17927Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality530,MQsensor,Parkinglot_center,2021-08-23T16:34:28.583821Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality531,MQsensor,Parkinglot_center,2021-08-23T16:34:28.9524Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality532,MQsensor,Parkinglot_center,2021-08-23T16:34:29.361483Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality533,MQsensor,Parkinglot_center,2021-08-23T16:34:29.73405Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality534,MQsensor,Parkinglot_center,2021-08-23T16:34:30.126373Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality535,MQsensor,Parkinglot_center,2021-08-23T16:34:30.505111Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality536,MQsensor,Parkinglot_center,2021-08-23T16:34:30.870567Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality537,MQsensor,Parkinglot_center,2021-08-23T16:34:31.242371Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality538,MQsensor,Parkinglot_center,2021-08-23T16:34:31.614873Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality539,MQsensor,Parkinglot_center,2021-08-23T16:34:32.025733Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality540,MQsensor,Parkinglot_center,2021-08-23T16:34:32.40358Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality541,MQsensor,Parkinglot_center,2021-08-23T16:34:32.792259Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality542,MQsensor,Parkinglot_center,2021-08-23T16:34:33.188758Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality543,MQsensor,Parkinglot_center,2021-08-23T16:34:33.561161Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality544,MQsensor,Parkinglot_center,2021-08-23T16:34:33.93118Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality545,MQsensor,Parkinglot_center,2021-08-23T16:34:34.308251Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality546,MQsensor,Parkinglot_center,2021-08-23T16:34:34.713053Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality547,MQsensor,Parkinglot_center,2021-08-23T16:34:35.09256Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality548,MQsensor,Parkinglot_center,2021-08-23T16:34:35.469387Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality549,MQsensor,Parkinglot_center,2021-08-23T16:34:35.84015Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality550,MQsensor,Parkinglot_center,2021-08-23T16:34:36.203314Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality551,MQsensor,Parkinglot_center,2021-08-23T16:34:36.565258Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality552,MQsensor,Parkinglot_center,2021-08-23T16:34:36.975695Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality553,MQsensor,Parkinglot_center,2021-08-23T16:34:37.390031Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality554,MQsensor,Parkinglot_center,2021-08-23T16:34:37.752005Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality555,MQsensor,Parkinglot_center,2021-08-23T16:34:38.183083Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality556,MQsensor,Parkinglot_center,2021-08-23T16:34:38.550151Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality557,MQsensor,Parkinglot_center,2021-08-23T16:34:38.945524Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality558,MQsensor,Parkinglot_center,2021-08-23T16:34:39.319881Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality559,MQsensor,Parkinglot_center,2021-08-23T16:34:39.690093Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality560,MQsensor,Parkinglot_center,2021-08-23T16:34:40.061367Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality561,MQsensor,Parkinglot_center,2021-08-23T16:34:40.441888Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality562,MQsensor,Parkinglot_center,2021-08-23T16:34:40.848927Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality563,MQsensor,Parkinglot_center,2021-08-23T16:34:41.245201Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality564,MQsensor,Parkinglot_center,2021-08-23T16:34:41.648445Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality565,MQsensor,Parkinglot_center,2021-08-23T16:34:42.084141Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality566,MQsensor,Parkinglot_center,2021-08-23T16:34:42.482626Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality567,MQsensor,Parkinglot_center,2021-08-23T16:34:42.851953Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality568,MQsensor,Parkinglot_center,2021-08-23T16:34:43.265003Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality569,MQsensor,Parkinglot_center,2021-08-23T16:34:43.664968Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality570,MQsensor,Parkinglot_center,2021-08-23T16:34:44.078357Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality571,MQsensor,Parkinglot_center,2021-08-23T16:34:44.458055Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality572,MQsensor,Parkinglot_center,2021-08-23T16:34:44.826285Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality573,MQsensor,Parkinglot_center,2021-08-23T16:34:45.195209Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality574,MQsensor,Parkinglot_center,2021-08-23T16:34:45.566889Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality575,MQsensor,Parkinglot_center,2021-08-23T16:34:45.980892Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality576,MQsensor,Parkinglot_center,2021-08-23T16:34:46.354016Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality577,MQsensor,Parkinglot_center,2021-08-23T16:34:46.740183Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality578,MQsensor,Parkinglot_center,2021-08-23T16:34:47.15603Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality579,MQsensor,Parkinglot_center,2021-08-23T16:34:47.568103Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality580,MQsensor,Parkinglot_center,2021-08-23T16:34:47.948041Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality581,MQsensor,Parkinglot_center,2021-08-23T16:34:48.343355Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality582,MQsensor,Parkinglot_center,2021-08-23T16:34:48.711429Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality583,MQsensor,Parkinglot_center,2021-08-23T16:34:49.080562Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality584,MQsensor,Parkinglot_center,2021-08-23T16:34:49.455126Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality585,MQsensor,Parkinglot_center,2021-08-23T16:34:49.835053Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality586,MQsensor,Parkinglot_center,2021-08-23T16:34:50.24456Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality587,MQsensor,Parkinglot_center,2021-08-23T16:34:50.609943Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality588,MQsensor,Parkinglot_center,2021-08-23T16:34:51.035026Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality589,MQsensor,Parkinglot_center,2021-08-23T16:34:51.44984Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality590,MQsensor,Parkinglot_center,2021-08-23T16:34:51.846057Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality591,MQsensor,Parkinglot_center,2021-08-23T16:34:52.265886Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality592,MQsensor,Parkinglot_center,2021-08-23T16:34:52.696049Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality593,MQsensor,Parkinglot_center,2021-08-23T16:34:53.066446Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality594,MQsensor,Parkinglot_center,2021-08-23T16:34:53.437723Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality595,MQsensor,Parkinglot_center,2021-08-23T16:34:53.805049Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality596,MQsensor,Parkinglot_center,2021-08-23T16:34:54.180154Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality597,MQsensor,Parkinglot_center,2021-08-23T16:34:54.591561Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality598,MQsensor,Parkinglot_center,2021-08-23T16:34:54.959664Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality599,MQsensor,Parkinglot_center,2021-08-23T16:34:55.352197Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality600,MQsensor,Parkinglot_center,2021-08-23T16:34:55.724981Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality601,MQsensor,Parkinglot_center,2021-08-23T16:34:56.120172Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality602,MQsensor,Parkinglot_center,2021-08-23T16:34:56.499043Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality603,MQsensor,Parkinglot_center,2021-08-23T16:34:56.866708Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality604,MQsensor,Parkinglot_center,2021-08-23T16:34:57.236994Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality605,MQsensor,Parkinglot_center,2021-08-23T16:34:57.611681Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality606,MQsensor,Parkinglot_center,2021-08-23T16:34:57.999825Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality607,MQsensor,Parkinglot_center,2021-08-23T16:34:58.402414Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality608,MQsensor,Parkinglot_center,2021-08-23T16:34:58.792847Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality609,MQsensor,Parkinglot_center,2021-08-23T16:34:59.168917Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality610,MQsensor,Parkinglot_center,2021-08-23T16:34:59.559288Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality611,MQsensor,Parkinglot_center,2021-08-23T16:34:59.942591Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality612,MQsensor,Parkinglot_center,2021-08-23T16:35:00.316877Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality613,MQsensor,Parkinglot_center,2021-08-23T16:35:00.691912Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality614,MQsensor,Parkinglot_center,2021-08-23T16:35:01.068494Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality615,MQsensor,Parkinglot_center,2021-08-23T16:35:01.448343Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality616,MQsensor,Parkinglot_center,2021-08-23T16:35:01.8249Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality617,MQsensor,Parkinglot_center,2021-08-23T16:35:02.246282Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality618,MQsensor,Parkinglot_center,2021-08-23T16:35:02.629212Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality619,MQsensor,Parkinglot_center,2021-08-23T16:35:03.026518Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality620,MQsensor,Parkinglot_center,2021-08-23T16:35:03.404619Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality621,MQsensor,Parkinglot_center,2021-08-23T16:35:03.784482Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality622,MQsensor,Parkinglot_center,2021-08-23T16:35:04.157224Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality623,MQsensor,Parkinglot_center,2021-08-23T16:35:04.526793Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality624,MQsensor,Parkinglot_center,2021-08-23T16:35:04.897894Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality625,MQsensor,Parkinglot_center,2021-08-23T16:35:05.276814Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality626,MQsensor,Parkinglot_center,2021-08-23T16:35:05.723229Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality627,MQsensor,Parkinglot_center,2021-08-23T16:35:06.310737Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality628,MQsensor,Parkinglot_center,2021-08-23T16:35:06.74096Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality629,MQsensor,Parkinglot_center,2021-08-23T16:35:07.112721Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality630,MQsensor,Parkinglot_center,2021-08-23T16:35:07.48442Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality631,MQsensor,Parkinglot_center,2021-08-23T16:35:07.86657Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality632,MQsensor,Parkinglot_center,2021-08-23T16:35:08.239568Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality633,MQsensor,Parkinglot_center,2021-08-23T16:35:08.652298Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality634,MQsensor,Parkinglot_center,2021-08-23T16:35:09.021337Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality635,MQsensor,Parkinglot_center,2021-08-23T16:35:09.384694Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality636,MQsensor,Parkinglot_center,2021-08-23T16:35:09.752039Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality637,MQsensor,Parkinglot_center,2021-08-23T16:35:10.149383Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality638,MQsensor,Parkinglot_center,2021-08-23T16:35:10.541522Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality639,MQsensor,Parkinglot_center,2021-08-23T16:35:10.908912Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality640,MQsensor,Parkinglot_center,2021-08-23T16:35:11.309539Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality641,MQsensor,Parkinglot_center,2021-08-23T16:35:11.678214Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality642,MQsensor,Parkinglot_center,2021-08-23T16:35:12.085912Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality643,MQsensor,Parkinglot_center,2021-08-23T16:35:12.455347Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality644,MQsensor,Parkinglot_center,2021-08-23T16:35:12.819229Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality645,MQsensor,Parkinglot_center,2021-08-23T16:35:13.191869Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality646,MQsensor,Parkinglot_center,2021-08-23T16:35:13.566099Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality647,MQsensor,Parkinglot_center,2021-08-23T16:35:14.006262Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality648,MQsensor,Parkinglot_center,2021-08-23T16:35:14.385593Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality649,MQsensor,Parkinglot_center,2021-08-23T16:35:14.808691Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality650,MQsensor,Parkinglot_center,2021-08-23T16:35:15.228471Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality651,MQsensor,Parkinglot_center,2021-08-23T16:35:15.604363Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality652,MQsensor,Parkinglot_center,2021-08-23T16:35:15.996807Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality653,MQsensor,Parkinglot_center,2021-08-23T16:35:16.384455Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality654,MQsensor,Parkinglot_center,2021-08-23T16:35:16.765557Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality655,MQsensor,Parkinglot_center,2021-08-23T16:35:17.165996Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality656,MQsensor,Parkinglot_center,2021-08-23T16:35:17.556006Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality657,MQsensor,Parkinglot_center,2021-08-23T16:35:17.988629Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality658,MQsensor,Parkinglot_center,2021-08-23T16:35:18.375772Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality659,MQsensor,Parkinglot_center,2021-08-23T16:35:18.8108Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality660,MQsensor,Parkinglot_center,2021-08-23T16:35:19.186255Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality661,MQsensor,Parkinglot_center,2021-08-23T16:35:19.606084Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality662,MQsensor,Parkinglot_center,2021-08-23T16:35:19.99635Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality663,MQsensor,Parkinglot_center,2021-08-23T16:35:20.404204Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality664,MQsensor,Parkinglot_center,2021-08-23T16:35:20.793003Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality665,MQsensor,Parkinglot_center,2021-08-23T16:35:21.5204Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality666,MQsensor,Parkinglot_center,2021-08-23T16:35:21.916085Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality667,MQsensor,Parkinglot_center,2021-08-23T16:35:22.366106Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality668,MQsensor,Parkinglot_center,2021-08-23T16:35:22.997849Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality669,MQsensor,Parkinglot_center,2021-08-23T16:35:23.398411Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality670,MQsensor,Parkinglot_center,2021-08-23T16:35:23.902469Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality671,MQsensor,Parkinglot_center,2021-08-23T16:35:24.405461Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality672,MQsensor,Parkinglot_center,2021-08-23T16:35:24.789484Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality673,MQsensor,Parkinglot_center,2021-08-23T16:35:25.187043Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality674,MQsensor,Parkinglot_center,2021-08-23T16:35:25.562991Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality675,MQsensor,Parkinglot_center,2021-08-23T16:35:25.969424Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality676,MQsensor,Parkinglot_center,2021-08-23T16:35:26.344693Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality677,MQsensor,Parkinglot_center,2021-08-23T16:35:26.78264Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality678,MQsensor,Parkinglot_center,2021-08-23T16:35:27.170087Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality679,MQsensor,Parkinglot_center,2021-08-23T16:35:27.558127Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality680,MQsensor,Parkinglot_center,2021-08-23T16:35:27.997292Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality681,MQsensor,Parkinglot_center,2021-08-23T16:35:28.404249Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality682,MQsensor,Parkinglot_center,2021-08-23T16:35:28.78371Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality683,MQsensor,Parkinglot_center,2021-08-23T16:35:29.186721Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality684,MQsensor,Parkinglot_center,2021-08-23T16:35:29.56596Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality685,MQsensor,Parkinglot_center,2021-08-23T16:35:29.941153Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality686,MQsensor,Parkinglot_center,2021-08-23T16:35:30.328408Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality687,MQsensor,Parkinglot_center,2021-08-23T16:35:30.712616Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality688,MQsensor,Parkinglot_center,2021-08-23T16:35:31.132718Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality689,MQsensor,Parkinglot_center,2021-08-23T16:35:31.508461Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality690,MQsensor,Parkinglot_center,2021-08-23T16:35:31.9196Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality691,MQsensor,Parkinglot_center,2021-08-23T16:35:32.304539Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality692,MQsensor,Parkinglot_center,2021-08-23T16:35:32.716535Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality693,MQsensor,Parkinglot_center,2021-08-23T16:35:33.149657Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality694,MQsensor,Parkinglot_center,2021-08-23T16:35:33.523675Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality695,MQsensor,Parkinglot_center,2021-08-23T16:35:33.895802Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality696,MQsensor,Parkinglot_center,2021-08-23T16:35:34.282196Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality697,MQsensor,Parkinglot_center,2021-08-23T16:35:34.65516Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality698,MQsensor,Parkinglot_center,2021-08-23T16:35:35.028031Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality699,MQsensor,Parkinglot_center,2021-08-23T16:35:35.429523Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality700,MQsensor,Parkinglot_center,2021-08-23T16:35:35.824113Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality701,MQsensor,Parkinglot_center,2021-08-23T16:35:36.213392Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality702,MQsensor,Parkinglot_center,2021-08-23T16:35:36.63483Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality703,MQsensor,Parkinglot_center,2021-08-23T16:35:37.010103Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality704,MQsensor,Parkinglot_center,2021-08-23T16:35:37.418029Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality705,MQsensor,Parkinglot_center,2021-08-23T16:35:37.793208Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality706,MQsensor,Parkinglot_center,2021-08-23T16:35:38.247516Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality707,MQsensor,Parkinglot_center,2021-08-23T16:35:38.629841Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality708,MQsensor,Parkinglot_center,2021-08-23T16:35:39.036229Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality709,MQsensor,Parkinglot_center,2021-08-23T16:35:39.419226Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality710,MQsensor,Parkinglot_center,2021-08-23T16:35:39.818144Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality711,MQsensor,Parkinglot_center,2021-08-23T16:35:40.185616Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality712,MQsensor,Parkinglot_center,2021-08-23T16:35:40.564514Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality713,MQsensor,Parkinglot_center,2021-08-23T16:35:40.933044Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality714,MQsensor,Parkinglot_center,2021-08-23T16:35:41.303166Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality715,MQsensor,Parkinglot_center,2021-08-23T16:35:41.698475Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality716,MQsensor,Parkinglot_center,2021-08-23T16:35:42.073643Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality717,MQsensor,Parkinglot_center,2021-08-23T16:35:42.496439Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality718,MQsensor,Parkinglot_center,2021-08-23T16:35:42.873312Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality719,MQsensor,Parkinglot_center,2021-08-23T16:35:43.284303Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality720,MQsensor,Parkinglot_center,2021-08-23T16:35:43.667713Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality721,MQsensor,Parkinglot_center,2021-08-23T16:35:44.079341Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality722,MQsensor,Parkinglot_center,2021-08-23T16:35:44.460916Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality723,MQsensor,Parkinglot_center,2021-08-23T16:35:44.875993Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality724,MQsensor,Parkinglot_center,2021-08-23T16:35:45.260331Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality725,MQsensor,Parkinglot_center,2021-08-23T16:35:45.702431Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality726,MQsensor,Parkinglot_center,2021-08-23T16:35:46.079198Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality727,MQsensor,Parkinglot_center,2021-08-23T16:35:46.493982Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality728,MQsensor,Parkinglot_center,2021-08-23T16:35:46.864074Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality729,MQsensor,Parkinglot_center,2021-08-23T16:35:47.234165Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality730,MQsensor,Parkinglot_center,2021-08-23T16:35:47.602433Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality731,MQsensor,Parkinglot_center,2021-08-23T16:35:47.974376Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality732,MQsensor,Parkinglot_center,2021-08-23T16:35:48.348924Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality733,MQsensor,Parkinglot_center,2021-08-23T16:35:48.719023Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality734,MQsensor,Parkinglot_center,2021-08-23T16:35:49.12079Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality735,MQsensor,Parkinglot_center,2021-08-23T16:35:49.49754Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality736,MQsensor,Parkinglot_center,2021-08-23T16:35:49.889097Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality737,MQsensor,Parkinglot_center,2021-08-23T16:35:50.261882Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality738,MQsensor,Parkinglot_center,2021-08-23T16:35:50.654661Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality739,MQsensor,Parkinglot_center,2021-08-23T16:35:51.029352Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality740,MQsensor,Parkinglot_center,2021-08-23T16:35:51.407722Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality741,MQsensor,Parkinglot_center,2021-08-23T16:35:51.836274Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality742,MQsensor,Parkinglot_center,2021-08-23T16:35:52.25059Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality743,MQsensor,Parkinglot_center,2021-08-23T16:35:52.651708Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality744,MQsensor,Parkinglot_center,2021-08-23T16:35:53.025925Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality745,MQsensor,Parkinglot_center,2021-08-23T16:35:53.403504Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality746,MQsensor,Parkinglot_center,2021-08-23T16:35:53.780127Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality747,MQsensor,Parkinglot_center,2021-08-23T16:35:54.15223Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality748,MQsensor,Parkinglot_center,2021-08-23T16:35:54.519838Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality749,MQsensor,Parkinglot_center,2021-08-23T16:35:54.890121Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality750,MQsensor,Parkinglot_center,2021-08-23T16:35:55.305364Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality751,MQsensor,Parkinglot_center,2021-08-23T16:35:55.673002Z,26,Raspberry Pi,50.77056324,6.059639769
+AirQuality752,MQsensor,Parkinglot_center,2021-08-23T16:35:56.128128Z,28,Raspberry Pi,50.77056324,6.059639769
+AirQuality753,MQsensor,Parkinglot_center,2021-08-23T16:35:56.496859Z,26,Raspberry Pi,50.77056324,6.059639769
+AirQuality754,MQsensor,Parkinglot_center,2021-08-23T16:35:56.926912Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality755,MQsensor,Parkinglot_center,2021-08-23T16:35:57.339192Z,30,Raspberry Pi,50.77056324,6.059639769
+AirQuality756,MQsensor,Parkinglot_center,2021-08-23T16:35:57.743349Z,30,Raspberry Pi,50.77056324,6.059639769
+AirQuality757,MQsensor,Parkinglot_center,2021-08-23T16:35:58.118927Z,30,Raspberry Pi,50.77056324,6.059639769
+AirQuality758,MQsensor,Parkinglot_center,2021-08-23T16:35:58.515638Z,31,Raspberry Pi,50.77056324,6.059639769
+AirQuality759,MQsensor,Parkinglot_center,2021-08-23T16:35:58.915961Z,28,Raspberry Pi,50.77056324,6.059639769
+AirQuality760,MQsensor,Parkinglot_center,2021-08-23T16:35:59.314061Z,29,Raspberry Pi,50.77056324,6.059639769
+AirQuality761,MQsensor,Parkinglot_center,2021-08-23T16:35:59.686639Z,30,Raspberry Pi,50.77056324,6.059639769
+AirQuality762,MQsensor,Parkinglot_center,2021-08-23T16:36:00.062137Z,29,Raspberry Pi,50.77056324,6.059639769
+AirQuality763,MQsensor,Parkinglot_center,2021-08-23T16:36:00.438955Z,29,Raspberry Pi,50.77056324,6.059639769
+AirQuality764,MQsensor,Parkinglot_center,2021-08-23T16:36:00.816063Z,30,Raspberry Pi,50.77056324,6.059639769
+AirQuality765,MQsensor,Parkinglot_center,2021-08-23T16:36:01.226614Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality766,MQsensor,Parkinglot_center,2021-08-23T16:36:01.603292Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality767,MQsensor,Parkinglot_center,2021-08-23T16:36:01.983104Z,30,Raspberry Pi,50.77056324,6.059639769
+AirQuality768,MQsensor,Parkinglot_center,2021-08-23T16:36:02.362281Z,28,Raspberry Pi,50.77056324,6.059639769
+AirQuality769,MQsensor,Parkinglot_center,2021-08-23T16:36:02.734684Z,28,Raspberry Pi,50.77056324,6.059639769
+AirQuality770,MQsensor,Parkinglot_center,2021-08-23T16:36:03.13542Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality771,MQsensor,Parkinglot_center,2021-08-23T16:36:03.505401Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality772,MQsensor,Parkinglot_center,2021-08-23T16:36:03.877493Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality773,MQsensor,Parkinglot_center,2021-08-23T16:36:04.252921Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality774,MQsensor,Parkinglot_center,2021-08-23T16:36:04.633951Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality775,MQsensor,Parkinglot_center,2021-08-23T16:36:05.064168Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality776,MQsensor,Parkinglot_center,2021-08-23T16:36:05.48225Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality777,MQsensor,Parkinglot_center,2021-08-23T16:36:05.860496Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality778,MQsensor,Parkinglot_center,2021-08-23T16:36:06.316136Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality779,MQsensor,Parkinglot_center,2021-08-23T16:36:06.690288Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality780,MQsensor,Parkinglot_center,2021-08-23T16:36:07.08073Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality781,MQsensor,Parkinglot_center,2021-08-23T16:36:07.455838Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality782,MQsensor,Parkinglot_center,2021-08-23T16:36:07.833388Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality783,MQsensor,Parkinglot_center,2021-08-23T16:36:08.221762Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality784,MQsensor,Parkinglot_center,2021-08-23T16:36:08.600106Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality785,MQsensor,Parkinglot_center,2021-08-23T16:36:09.01235Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality786,MQsensor,Parkinglot_center,2021-08-23T16:36:09.401224Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality787,MQsensor,Parkinglot_center,2021-08-23T16:36:09.815711Z,26,Raspberry Pi,50.77056324,6.059639769
+AirQuality788,MQsensor,Parkinglot_center,2021-08-23T16:36:10.187183Z,26,Raspberry Pi,50.77056324,6.059639769
+AirQuality789,MQsensor,Parkinglot_center,2021-08-23T16:36:10.604561Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality790,MQsensor,Parkinglot_center,2021-08-23T16:36:11.002805Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality791,MQsensor,Parkinglot_center,2021-08-23T16:36:11.439011Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality792,MQsensor,Parkinglot_center,2021-08-23T16:36:11.843565Z,31,Raspberry Pi,50.77056324,6.059639769
+AirQuality793,MQsensor,Parkinglot_center,2021-08-23T16:36:12.255905Z,26,Raspberry Pi,50.77056324,6.059639769
+AirQuality794,MQsensor,Parkinglot_center,2021-08-23T16:36:12.898439Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality795,MQsensor,Parkinglot_center,2021-08-23T16:36:13.272953Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality796,MQsensor,Parkinglot_center,2021-08-23T16:36:13.647827Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality797,MQsensor,Parkinglot_center,2021-08-23T16:36:14.060474Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality798,MQsensor,Parkinglot_center,2021-08-23T16:36:14.431548Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality799,MQsensor,Parkinglot_center,2021-08-23T16:36:14.825322Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality800,MQsensor,Parkinglot_center,2021-08-23T16:36:15.22652Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality801,MQsensor,Parkinglot_center,2021-08-23T16:36:15.612542Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality802,MQsensor,Parkinglot_center,2021-08-23T16:36:15.989031Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality803,MQsensor,Parkinglot_center,2021-08-23T16:36:16.372106Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality804,MQsensor,Parkinglot_center,2021-08-23T16:36:16.756595Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality805,MQsensor,Parkinglot_center,2021-08-23T16:36:17.161417Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality806,MQsensor,Parkinglot_center,2021-08-23T16:36:17.54364Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality807,MQsensor,Parkinglot_center,2021-08-23T16:36:17.930435Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality808,MQsensor,Parkinglot_center,2021-08-23T16:36:18.310929Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality809,MQsensor,Parkinglot_center,2021-08-23T16:36:18.701186Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality810,MQsensor,Parkinglot_center,2021-08-23T16:36:19.094292Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality811,MQsensor,Parkinglot_center,2021-08-23T16:36:19.499411Z,26,Raspberry Pi,50.77056324,6.059639769
+AirQuality812,MQsensor,Parkinglot_center,2021-08-23T16:36:19.875607Z,26,Raspberry Pi,50.77056324,6.059639769
+AirQuality813,MQsensor,Parkinglot_center,2021-08-23T16:36:20.334082Z,26,Raspberry Pi,50.77056324,6.059639769
+AirQuality814,MQsensor,Parkinglot_center,2021-08-23T16:36:20.714544Z,26,Raspberry Pi,50.77056324,6.059639769
+AirQuality815,MQsensor,Parkinglot_center,2021-08-23T16:36:21.137594Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality816,MQsensor,Parkinglot_center,2021-08-23T16:36:21.515981Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality817,MQsensor,Parkinglot_center,2021-08-23T16:36:21.94564Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality818,MQsensor,Parkinglot_center,2021-08-23T16:36:22.331847Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality819,MQsensor,Parkinglot_center,2021-08-23T16:36:22.847564Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality820,MQsensor,Parkinglot_center,2021-08-23T16:36:23.356538Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality821,MQsensor,Parkinglot_center,2021-08-23T16:36:23.77184Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality822,MQsensor,Parkinglot_center,2021-08-23T16:36:24.261534Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality823,MQsensor,Parkinglot_center,2021-08-23T16:36:24.965533Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality824,MQsensor,Parkinglot_center,2021-08-23T16:36:25.339723Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality825,MQsensor,Parkinglot_center,2021-08-23T16:36:25.745722Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality826,MQsensor,Parkinglot_center,2021-08-23T16:36:26.128057Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality827,MQsensor,Parkinglot_center,2021-08-23T16:36:26.510995Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality828,MQsensor,Parkinglot_center,2021-08-23T16:36:26.888867Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality829,MQsensor,Parkinglot_center,2021-08-23T16:36:27.294067Z,28,Raspberry Pi,50.77056324,6.059639769
+AirQuality830,MQsensor,Parkinglot_center,2021-08-23T16:36:27.668424Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality831,MQsensor,Parkinglot_center,2021-08-23T16:36:28.070512Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality832,MQsensor,Parkinglot_center,2021-08-23T16:36:28.455209Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality833,MQsensor,Parkinglot_center,2021-08-23T16:36:28.847745Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality834,MQsensor,Parkinglot_center,2021-08-23T16:36:29.25646Z,26,Raspberry Pi,50.77056324,6.059639769
+AirQuality835,MQsensor,Parkinglot_center,2021-08-23T16:36:29.646817Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality836,MQsensor,Parkinglot_center,2021-08-23T16:36:30.019226Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality837,MQsensor,Parkinglot_center,2021-08-23T16:36:30.392321Z,26,Raspberry Pi,50.77056324,6.059639769
+AirQuality838,MQsensor,Parkinglot_center,2021-08-23T16:36:30.765569Z,34,Raspberry Pi,50.77056324,6.059639769
+AirQuality839,MQsensor,Parkinglot_center,2021-08-23T16:36:31.142373Z,34,Raspberry Pi,50.77056324,6.059639769
+AirQuality840,MQsensor,Parkinglot_center,2021-08-23T16:36:31.54749Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality841,MQsensor,Parkinglot_center,2021-08-23T16:36:31.92597Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality842,MQsensor,Parkinglot_center,2021-08-23T16:36:32.341877Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality843,MQsensor,Parkinglot_center,2021-08-23T16:36:32.723464Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality844,MQsensor,Parkinglot_center,2021-08-23T16:36:33.143085Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality845,MQsensor,Parkinglot_center,2021-08-23T16:36:33.514512Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality846,MQsensor,Parkinglot_center,2021-08-23T16:36:33.932127Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality847,MQsensor,Parkinglot_center,2021-08-23T16:36:34.344564Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality848,MQsensor,Parkinglot_center,2021-08-23T16:36:34.765627Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality849,MQsensor,Parkinglot_center,2021-08-23T16:36:35.14836Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality850,MQsensor,Parkinglot_center,2021-08-23T16:36:35.566507Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality851,MQsensor,Parkinglot_center,2021-08-23T16:36:35.942139Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality852,MQsensor,Parkinglot_center,2021-08-23T16:36:36.347223Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality853,MQsensor,Parkinglot_center,2021-08-23T16:36:36.723567Z,26,Raspberry Pi,50.77056324,6.059639769
+AirQuality854,MQsensor,Parkinglot_center,2021-08-23T16:36:37.118678Z,26,Raspberry Pi,50.77056324,6.059639769
+AirQuality855,MQsensor,Parkinglot_center,2021-08-23T16:36:37.49617Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality856,MQsensor,Parkinglot_center,2021-08-23T16:36:37.872182Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality857,MQsensor,Parkinglot_center,2021-08-23T16:36:38.279006Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality858,MQsensor,Parkinglot_center,2021-08-23T16:36:38.684946Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality859,MQsensor,Parkinglot_center,2021-08-23T16:36:39.07357Z,26,Raspberry Pi,50.77056324,6.059639769
+AirQuality860,MQsensor,Parkinglot_center,2021-08-23T16:36:39.466552Z,28,Raspberry Pi,50.77056324,6.059639769
+AirQuality861,MQsensor,Parkinglot_center,2021-08-23T16:36:39.845015Z,30,Raspberry Pi,50.77056324,6.059639769
+AirQuality862,MQsensor,Parkinglot_center,2021-08-23T16:36:40.234417Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality863,MQsensor,Parkinglot_center,2021-08-23T16:36:40.631698Z,29,Raspberry Pi,50.77056324,6.059639769
+AirQuality864,MQsensor,Parkinglot_center,2021-08-23T16:36:41.005325Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality865,MQsensor,Parkinglot_center,2021-08-23T16:36:41.408465Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality866,MQsensor,Parkinglot_center,2021-08-23T16:36:41.80866Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality867,MQsensor,Parkinglot_center,2021-08-23T16:36:42.216559Z,34,Raspberry Pi,50.77056324,6.059639769
+AirQuality868,MQsensor,Parkinglot_center,2021-08-23T16:36:42.59366Z,33,Raspberry Pi,50.77056324,6.059639769
+AirQuality869,MQsensor,Parkinglot_center,2021-08-23T16:36:43.006746Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality870,MQsensor,Parkinglot_center,2021-08-23T16:36:43.382237Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality871,MQsensor,Parkinglot_center,2021-08-23T16:36:43.788124Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality872,MQsensor,Parkinglot_center,2021-08-23T16:36:44.172746Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality873,MQsensor,Parkinglot_center,2021-08-23T16:36:44.552708Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality874,MQsensor,Parkinglot_center,2021-08-23T16:36:44.974467Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality875,MQsensor,Parkinglot_center,2021-08-23T16:36:45.350911Z,26,Raspberry Pi,50.77056324,6.059639769
+AirQuality876,MQsensor,Parkinglot_center,2021-08-23T16:36:45.766196Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality877,MQsensor,Parkinglot_center,2021-08-23T16:36:46.148647Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality878,MQsensor,Parkinglot_center,2021-08-23T16:36:46.575293Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality879,MQsensor,Parkinglot_center,2021-08-23T16:36:46.953828Z,29,Raspberry Pi,50.77056324,6.059639769
+AirQuality880,MQsensor,Parkinglot_center,2021-08-23T16:36:47.37016Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality881,MQsensor,Parkinglot_center,2021-08-23T16:36:47.765152Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality882,MQsensor,Parkinglot_center,2021-08-23T16:36:48.1837Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality883,MQsensor,Parkinglot_center,2021-08-23T16:36:48.562419Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality884,MQsensor,Parkinglot_center,2021-08-23T16:36:48.962899Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality885,MQsensor,Parkinglot_center,2021-08-23T16:36:49.349298Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality886,MQsensor,Parkinglot_center,2021-08-23T16:36:49.756254Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality887,MQsensor,Parkinglot_center,2021-08-23T16:36:50.135187Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality888,MQsensor,Parkinglot_center,2021-08-23T16:36:50.545349Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality889,MQsensor,Parkinglot_center,2021-08-23T16:36:50.927379Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality890,MQsensor,Parkinglot_center,2021-08-23T16:36:51.299669Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality891,MQsensor,Parkinglot_center,2021-08-23T16:36:51.675907Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality892,MQsensor,Parkinglot_center,2021-08-23T16:36:52.075336Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality893,MQsensor,Parkinglot_center,2021-08-23T16:36:52.460392Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality894,MQsensor,Parkinglot_center,2021-08-23T16:36:52.834638Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality895,MQsensor,Parkinglot_center,2021-08-23T16:36:53.238667Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality896,MQsensor,Parkinglot_center,2021-08-23T16:36:53.612197Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality897,MQsensor,Parkinglot_center,2021-08-23T16:36:54.018197Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality898,MQsensor,Parkinglot_center,2021-08-23T16:36:54.395708Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality899,MQsensor,Parkinglot_center,2021-08-23T16:36:54.786062Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality900,MQsensor,Parkinglot_center,2021-08-23T16:36:55.159584Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality901,MQsensor,Parkinglot_center,2021-08-23T16:36:55.535938Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality902,MQsensor,Parkinglot_center,2021-08-23T16:36:55.915135Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality903,MQsensor,Parkinglot_center,2021-08-23T16:36:56.292855Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality904,MQsensor,Parkinglot_center,2021-08-23T16:36:56.70975Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality905,MQsensor,Parkinglot_center,2021-08-23T16:36:57.085455Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality906,MQsensor,Parkinglot_center,2021-08-23T16:36:57.703571Z,32,Raspberry Pi,50.77056324,6.059639769
+AirQuality907,MQsensor,Parkinglot_center,2021-08-23T16:36:58.080566Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality908,MQsensor,Parkinglot_center,2021-08-23T16:36:58.464926Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality909,MQsensor,Parkinglot_center,2021-08-23T16:36:58.89408Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality910,MQsensor,Parkinglot_center,2021-08-23T16:36:59.285507Z,29,Raspberry Pi,50.77056324,6.059639769
+AirQuality911,MQsensor,Parkinglot_center,2021-08-23T16:36:59.699639Z,26,Raspberry Pi,50.77056324,6.059639769
+AirQuality912,MQsensor,Parkinglot_center,2021-08-23T16:37:00.075727Z,33,Raspberry Pi,50.77056324,6.059639769
+AirQuality913,MQsensor,Parkinglot_center,2021-08-23T16:37:00.486247Z,33,Raspberry Pi,50.77056324,6.059639769
+AirQuality914,MQsensor,Parkinglot_center,2021-08-23T16:37:00.864045Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality915,MQsensor,Parkinglot_center,2021-08-23T16:37:01.275946Z,29,Raspberry Pi,50.77056324,6.059639769
+AirQuality916,MQsensor,Parkinglot_center,2021-08-23T16:37:01.657985Z,30,Raspberry Pi,50.77056324,6.059639769
+AirQuality917,MQsensor,Parkinglot_center,2021-08-23T16:37:02.060353Z,29,Raspberry Pi,50.77056324,6.059639769
+AirQuality918,MQsensor,Parkinglot_center,2021-08-23T16:37:02.438255Z,28,Raspberry Pi,50.77056324,6.059639769
+AirQuality919,MQsensor,Parkinglot_center,2021-08-23T16:37:02.807477Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality920,MQsensor,Parkinglot_center,2021-08-23T16:37:03.186983Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality921,MQsensor,Parkinglot_center,2021-08-23T16:37:03.575133Z,31,Raspberry Pi,50.77056324,6.059639769
+AirQuality922,MQsensor,Parkinglot_center,2021-08-23T16:37:03.949929Z,26,Raspberry Pi,50.77056324,6.059639769
+AirQuality923,MQsensor,Parkinglot_center,2021-08-23T16:37:04.338275Z,26,Raspberry Pi,50.77056324,6.059639769
+AirQuality924,MQsensor,Parkinglot_center,2021-08-23T16:37:04.791765Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality925,MQsensor,Parkinglot_center,2021-08-23T16:37:05.185316Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality926,MQsensor,Parkinglot_center,2021-08-23T16:37:05.597141Z,30,Raspberry Pi,50.77056324,6.059639769
+AirQuality927,MQsensor,Parkinglot_center,2021-08-23T16:37:05.993092Z,32,Raspberry Pi,50.77056324,6.059639769
+AirQuality928,MQsensor,Parkinglot_center,2021-08-23T16:37:06.391265Z,29,Raspberry Pi,50.77056324,6.059639769
+AirQuality929,MQsensor,Parkinglot_center,2021-08-23T16:37:06.774417Z,30,Raspberry Pi,50.77056324,6.059639769
+AirQuality930,MQsensor,Parkinglot_center,2021-08-23T16:37:07.182831Z,30,Raspberry Pi,50.77056324,6.059639769
+AirQuality931,MQsensor,Parkinglot_center,2021-08-23T16:37:07.563963Z,31,Raspberry Pi,50.77056324,6.059639769
+AirQuality932,MQsensor,Parkinglot_center,2021-08-23T16:37:07.9778Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality933,MQsensor,Parkinglot_center,2021-08-23T16:37:08.350847Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality934,MQsensor,Parkinglot_center,2021-08-23T16:37:08.811817Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality935,MQsensor,Parkinglot_center,2021-08-23T16:37:09.190953Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality936,MQsensor,Parkinglot_center,2021-08-23T16:37:09.604178Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality937,MQsensor,Parkinglot_center,2021-08-23T16:37:10.030741Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality938,MQsensor,Parkinglot_center,2021-08-23T16:37:10.426039Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality939,MQsensor,Parkinglot_center,2021-08-23T16:37:10.803026Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality940,MQsensor,Parkinglot_center,2021-08-23T16:37:11.216329Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality941,MQsensor,Parkinglot_center,2021-08-23T16:37:11.592121Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality942,MQsensor,Parkinglot_center,2021-08-23T16:37:12.00434Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality943,MQsensor,Parkinglot_center,2021-08-23T16:37:12.381906Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality944,MQsensor,Parkinglot_center,2021-08-23T16:37:12.811211Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality945,MQsensor,Parkinglot_center,2021-08-23T16:37:13.195487Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality946,MQsensor,Parkinglot_center,2021-08-23T16:37:13.591352Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality947,MQsensor,Parkinglot_center,2021-08-23T16:37:13.973465Z,30,Raspberry Pi,50.77056324,6.059639769
+AirQuality948,MQsensor,Parkinglot_center,2021-08-23T16:37:14.364274Z,30,Raspberry Pi,50.77056324,6.059639769
+AirQuality949,MQsensor,Parkinglot_center,2021-08-23T16:37:14.813078Z,33,Raspberry Pi,50.77056324,6.059639769
+AirQuality950,MQsensor,Parkinglot_center,2021-08-23T16:37:15.222483Z,26,Raspberry Pi,50.77056324,6.059639769
+AirQuality951,MQsensor,Parkinglot_center,2021-08-23T16:37:15.648683Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality952,MQsensor,Parkinglot_center,2021-08-23T16:37:16.073078Z,28,Raspberry Pi,50.77056324,6.059639769
+AirQuality953,MQsensor,Parkinglot_center,2021-08-23T16:37:16.520309Z,28,Raspberry Pi,50.77056324,6.059639769
+AirQuality954,MQsensor,Parkinglot_center,2021-08-23T16:37:16.925926Z,28,Raspberry Pi,50.77056324,6.059639769
+AirQuality955,MQsensor,Parkinglot_center,2021-08-23T16:37:17.357656Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality956,MQsensor,Parkinglot_center,2021-08-23T16:37:17.736939Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality957,MQsensor,Parkinglot_center,2021-08-23T16:37:18.15869Z,20,Raspberry Pi,50.77056324,6.059639769
+AirQuality958,MQsensor,Parkinglot_center,2021-08-23T16:37:18.58037Z,20,Raspberry Pi,50.77056324,6.059639769
+AirQuality959,MQsensor,Parkinglot_center,2021-08-23T16:37:18.988824Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality960,MQsensor,Parkinglot_center,2021-08-23T16:37:19.372944Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality961,MQsensor,Parkinglot_center,2021-08-23T16:37:19.762288Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality962,MQsensor,Parkinglot_center,2021-08-23T16:37:20.147159Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality963,MQsensor,Parkinglot_center,2021-08-23T16:37:20.535861Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality964,MQsensor,Parkinglot_center,2021-08-23T16:37:20.929748Z,26,Raspberry Pi,50.77056324,6.059639769
+AirQuality965,MQsensor,Parkinglot_center,2021-08-23T16:37:21.392149Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality966,MQsensor,Parkinglot_center,2021-08-23T16:37:21.910762Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality967,MQsensor,Parkinglot_center,2021-08-23T16:37:22.375622Z,28,Raspberry Pi,50.77056324,6.059639769
+AirQuality968,MQsensor,Parkinglot_center,2021-08-23T16:37:22.873626Z,29,Raspberry Pi,50.77056324,6.059639769
+AirQuality969,MQsensor,Parkinglot_center,2021-08-23T16:37:23.378115Z,29,Raspberry Pi,50.77056324,6.059639769
+AirQuality970,MQsensor,Parkinglot_center,2021-08-23T16:37:23.766093Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality971,MQsensor,Parkinglot_center,2021-08-23T16:37:24.283654Z,29,Raspberry Pi,50.77056324,6.059639769
+AirQuality972,MQsensor,Parkinglot_center,2021-08-23T16:37:24.79976Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality973,MQsensor,Parkinglot_center,2021-08-23T16:37:25.223789Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality974,MQsensor,Parkinglot_center,2021-08-23T16:37:25.614476Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality975,MQsensor,Parkinglot_center,2021-08-23T16:37:26.021936Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality976,MQsensor,Parkinglot_center,2021-08-23T16:37:26.401283Z,28,Raspberry Pi,50.77056324,6.059639769
+AirQuality977,MQsensor,Parkinglot_center,2021-08-23T16:37:26.837953Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality978,MQsensor,Parkinglot_center,2021-08-23T16:37:27.218261Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality979,MQsensor,Parkinglot_center,2021-08-23T16:37:27.635585Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality980,MQsensor,Parkinglot_center,2021-08-23T16:37:28.018608Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality981,MQsensor,Parkinglot_center,2021-08-23T16:37:28.49565Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality982,MQsensor,Parkinglot_center,2021-08-23T16:37:28.965306Z,23,Raspberry Pi,50.77056324,6.059639769
+AirQuality983,MQsensor,Parkinglot_center,2021-08-23T16:37:29.418472Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality984,MQsensor,Parkinglot_center,2021-08-23T16:37:29.88861Z,24,Raspberry Pi,50.77056324,6.059639769
+AirQuality985,MQsensor,Parkinglot_center,2021-08-23T16:37:30.342943Z,25,Raspberry Pi,50.77056324,6.059639769
+AirQuality986,MQsensor,Parkinglot_center,2021-08-23T16:37:30.820232Z,27,Raspberry Pi,50.77056324,6.059639769
+AirQuality987,MQsensor,Parkinglot_center,2021-08-23T16:37:31.300654Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality988,MQsensor,Parkinglot_center,2021-08-23T16:37:31.838931Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality989,MQsensor,Parkinglot_center,2021-08-23T16:37:32.320217Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality990,MQsensor,Parkinglot_center,2021-08-23T16:37:32.809216Z,22,Raspberry Pi,50.77056324,6.059639769
+AirQuality991,MQsensor,Parkinglot_center,2021-08-23T16:37:33.27493Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality992,MQsensor,Parkinglot_center,2021-08-23T16:37:33.745615Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality993,MQsensor,Parkinglot_center,2021-08-23T16:37:34.209644Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality994,MQsensor,Parkinglot_center,2021-08-23T16:37:34.690818Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality995,MQsensor,Parkinglot_center,2021-08-23T16:37:35.123737Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality996,MQsensor,Parkinglot_center,2021-08-23T16:37:35.536818Z,20,Raspberry Pi,50.77056324,6.059639769
+AirQuality997,MQsensor,Parkinglot_center,2021-08-23T16:37:35.958076Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality998,MQsensor,Parkinglot_center,2021-08-23T16:37:36.341391Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality999,MQsensor,Parkinglot_center,2021-08-23T16:37:36.746308Z,21,Raspberry Pi,50.77056324,6.059639769
+AirQuality1000,MQsensor,Parkinglot_center,2021-08-23T16:37:37.137921Z,26,Raspberry Pi,50.77056324,6.059639769
+AirQuality1001,MQsensor,Uphill,2021-08-23T16:23:08.225757Z,23,,50.76936004,6.073282323
+AirQuality1002,MQsensor,Uphill,2021-08-23T16:23:08.617229Z,23,,50.76936004,6.073282323
+AirQuality1003,MQsensor,Uphill,2021-08-23T16:23:09.017744Z,23,,50.76936004,6.073282323
+AirQuality1004,MQsensor,Uphill,2021-08-23T16:23:09.493396Z,24,,50.76936004,6.073282323
+AirQuality1005,MQsensor,Uphill,2021-08-23T16:23:09.892447Z,22,,50.76936004,6.073282323
+AirQuality1006,MQsensor,Uphill,2021-08-23T16:23:10.415204Z,23,,50.76936004,6.073282323
+AirQuality1007,MQsensor,Uphill,2021-08-23T16:23:10.907824Z,28,,50.76936004,6.073282323
+AirQuality1008,MQsensor,Uphill,2021-08-23T16:23:11.305902Z,25,,50.76936004,6.073282323
+AirQuality1009,MQsensor,Uphill,2021-08-23T16:23:11.682768Z,28,,50.76936004,6.073282323
+AirQuality1010,MQsensor,Uphill,2021-08-23T16:23:12.060467Z,28,,50.76936004,6.073282323
+AirQuality1011,MQsensor,Uphill,2021-08-23T16:23:12.418093Z,23,,50.76936004,6.073282323
+AirQuality1012,MQsensor,Uphill,2021-08-23T16:23:12.806864Z,22,,50.76936004,6.073282323
+AirQuality1013,MQsensor,Uphill,2021-08-23T16:23:13.2168Z,22,,50.76936004,6.073282323
+AirQuality1014,MQsensor,Uphill,2021-08-23T16:23:13.595594Z,22,,50.76936004,6.073282323
+AirQuality1015,MQsensor,Uphill,2021-08-23T16:23:13.989935Z,22,,50.76936004,6.073282323
+AirQuality1016,MQsensor,Uphill,2021-08-23T16:23:14.401999Z,21,,50.76936004,6.073282323
+AirQuality1017,MQsensor,Uphill,2021-08-23T16:23:14.78654Z,22,,50.76936004,6.073282323
+AirQuality1018,MQsensor,Uphill,2021-08-23T16:23:15.176312Z,21,,50.76936004,6.073282323
+AirQuality1019,MQsensor,Uphill,2021-08-23T16:23:15.569298Z,21,,50.76936004,6.073282323
+AirQuality1020,MQsensor,Uphill,2021-08-23T16:23:16.065814Z,25,,50.76936004,6.073282323
+AirQuality1021,MQsensor,Uphill,2021-08-23T16:23:16.494297Z,25,,50.76936004,6.073282323
+AirQuality1022,MQsensor,Uphill,2021-08-23T16:23:16.870582Z,25,,50.76936004,6.073282323
+AirQuality1023,MQsensor,Uphill,2021-08-23T16:23:17.303671Z,24,,50.76936004,6.073282323
+AirQuality1024,MQsensor,Uphill,2021-08-23T16:23:17.687528Z,27,,50.76936004,6.073282323
+AirQuality1025,MQsensor,Uphill,2021-08-23T16:23:18.066942Z,27,,50.76936004,6.073282323
+AirQuality1026,MQsensor,Uphill,2021-08-23T16:23:18.441874Z,26,,50.76936004,6.073282323
+AirQuality1027,MQsensor,Uphill,2021-08-23T16:23:18.843823Z,27,,50.76936004,6.073282323
+AirQuality1028,MQsensor,Uphill,2021-08-23T16:23:19.248716Z,27,,50.76936004,6.073282323
+AirQuality1029,MQsensor,Uphill,2021-08-23T16:23:19.636945Z,26,,50.76936004,6.073282323
+AirQuality1030,MQsensor,Uphill,2021-08-23T16:23:20.011047Z,25,,50.76936004,6.073282323
+AirQuality1031,MQsensor,Uphill,2021-08-23T16:23:20.408054Z,25,,50.76936004,6.073282323
+AirQuality1032,MQsensor,Uphill,2021-08-23T16:23:20.78446Z,24,,50.76936004,6.073282323
+AirQuality1033,MQsensor,Uphill,2021-08-23T16:23:21.406459Z,24,,50.76936004,6.073282323
+AirQuality1034,MQsensor,Uphill,2021-08-23T16:23:21.891285Z,23,,50.76936004,6.073282323
+AirQuality1035,MQsensor,Uphill,2021-08-23T16:23:22.50523Z,24,,50.76936004,6.073282323
+AirQuality1036,MQsensor,Uphill,2021-08-23T16:23:23.130753Z,23,,50.76936004,6.073282323
+AirQuality1037,MQsensor,Uphill,2021-08-23T16:23:23.536262Z,25,,50.76936004,6.073282323
+AirQuality1038,MQsensor,Uphill,2021-08-23T16:23:24.195985Z,26,,50.76936004,6.073282323
+AirQuality1039,MQsensor,Uphill,2021-08-23T16:23:24.705474Z,24,,50.76936004,6.073282323
+AirQuality1040,MQsensor,Uphill,2021-08-23T16:23:25.07206Z,24,,50.76936004,6.073282323
+AirQuality1041,MQsensor,Uphill,2021-08-23T16:23:25.475761Z,24,,50.76936004,6.073282323
+AirQuality1042,MQsensor,Uphill,2021-08-23T16:23:25.877185Z,24,,50.76936004,6.073282323
+AirQuality1043,MQsensor,Uphill,2021-08-23T16:23:26.271213Z,24,,50.76936004,6.073282323
+AirQuality1044,MQsensor,Uphill,2021-08-23T16:23:26.641208Z,24,,50.76936004,6.073282323
+AirQuality1045,MQsensor,Uphill,2021-08-23T16:23:27.041789Z,24,,50.76936004,6.073282323
+AirQuality1046,MQsensor,Uphill,2021-08-23T16:23:27.420715Z,24,,50.76936004,6.073282323
+AirQuality1047,MQsensor,Uphill,2021-08-23T16:23:27.801271Z,22,,50.76936004,6.073282323
+AirQuality1048,MQsensor,Uphill,2021-08-23T16:23:28.220599Z,23,,50.76936004,6.073282323
+AirQuality1049,MQsensor,Uphill,2021-08-23T16:23:28.58557Z,24,,50.76936004,6.073282323
+AirQuality1050,MQsensor,Uphill,2021-08-23T16:23:28.947333Z,23,,50.76936004,6.073282323
+AirQuality1051,MQsensor,Uphill,2021-08-23T16:23:29.345329Z,35,,50.76936004,6.073282323
+AirQuality1052,MQsensor,Uphill,2021-08-23T16:23:29.737997Z,39,,50.76936004,6.073282323
+AirQuality1053,MQsensor,Uphill,2021-08-23T16:23:30.117088Z,43,,50.76936004,6.073282323
+AirQuality1054,MQsensor,Uphill,2021-08-23T16:23:30.505297Z,40,,50.76936004,6.073282323
+AirQuality1055,MQsensor,Uphill,2021-08-23T16:23:30.872735Z,58,,50.76936004,6.073282323
+AirQuality1056,MQsensor,Uphill,2021-08-23T16:23:31.257752Z,68,,50.76936004,6.073282323
+AirQuality1057,MQsensor,Uphill,2021-08-23T16:23:31.625199Z,83,,50.76936004,6.073282323
+AirQuality1058,MQsensor,Uphill,2021-08-23T16:23:32.021241Z,91,,50.76936004,6.073282323
+AirQuality1059,MQsensor,Uphill,2021-08-23T16:23:32.418436Z,98,,50.76936004,6.073282323
+AirQuality1060,MQsensor,Uphill,2021-08-23T16:23:32.806713Z,113,,50.76936004,6.073282323
+AirQuality1061,MQsensor,Uphill,2021-08-23T16:23:33.215574Z,103,,50.76936004,6.073282323
+AirQuality1062,MQsensor,Uphill,2021-08-23T16:23:33.632608Z,103,,50.76936004,6.073282323
+AirQuality1063,MQsensor,Uphill,2021-08-23T16:23:34.030483Z,95,,50.76936004,6.073282323
+AirQuality1064,MQsensor,Uphill,2021-08-23T16:23:34.394289Z,78,,50.76936004,6.073282323
+AirQuality1065,MQsensor,Uphill,2021-08-23T16:23:34.771975Z,65,,50.76936004,6.073282323
+AirQuality1066,MQsensor,Uphill,2021-08-23T16:23:35.202246Z,58,,50.76936004,6.073282323
+AirQuality1067,MQsensor,Uphill,2021-08-23T16:23:35.584219Z,54,,50.76936004,6.073282323
+AirQuality1068,MQsensor,Uphill,2021-08-23T16:23:36.106995Z,52,,50.76936004,6.073282323
+AirQuality1069,MQsensor,Uphill,2021-08-23T16:23:36.540868Z,47,,50.76936004,6.073282323
+AirQuality1070,MQsensor,Uphill,2021-08-23T16:23:37.33844Z,45,,50.76936004,6.073282323
+AirQuality1071,MQsensor,Uphill,2021-08-23T16:23:37.76447Z,43,,50.76936004,6.073282323
+AirQuality1072,MQsensor,Uphill,2021-08-23T16:23:38.15199Z,43,,50.76936004,6.073282323
+AirQuality1073,MQsensor,Uphill,2021-08-23T16:23:38.550131Z,42,,50.76936004,6.073282323
+AirQuality1074,MQsensor,Uphill,2021-08-23T16:23:38.939589Z,42,,50.76936004,6.073282323
+AirQuality1075,MQsensor,Uphill,2021-08-23T16:23:39.324792Z,40,,50.76936004,6.073282323
+AirQuality1076,MQsensor,Uphill,2021-08-23T16:23:39.719255Z,40,,50.76936004,6.073282323
+AirQuality1077,MQsensor,Uphill,2021-08-23T16:23:40.097675Z,40,,50.76936004,6.073282323
+AirQuality1078,MQsensor,Uphill,2021-08-23T16:23:40.504213Z,40,,50.76936004,6.073282323
+AirQuality1079,MQsensor,Uphill,2021-08-23T16:23:40.92906Z,39,,50.76936004,6.073282323
+AirQuality1080,MQsensor,Uphill,2021-08-23T16:23:41.330499Z,39,,50.76936004,6.073282323
+AirQuality1081,MQsensor,Uphill,2021-08-23T16:23:41.831015Z,39,,50.76936004,6.073282323
+AirQuality1082,MQsensor,Uphill,2021-08-23T16:23:42.271851Z,38,,50.76936004,6.073282323
+AirQuality1083,MQsensor,Uphill,2021-08-23T16:23:42.681514Z,38,,50.76936004,6.073282323
+AirQuality1084,MQsensor,Uphill,2021-08-23T16:23:43.075702Z,38,,50.76936004,6.073282323
+AirQuality1085,MQsensor,Uphill,2021-08-23T16:23:43.505023Z,37,,50.76936004,6.073282323
+AirQuality1086,MQsensor,Uphill,2021-08-23T16:23:43.876979Z,37,,50.76936004,6.073282323
+AirQuality1087,MQsensor,Uphill,2021-08-23T16:23:44.29151Z,35,,50.76936004,6.073282323
+AirQuality1088,MQsensor,Uphill,2021-08-23T16:23:44.674454Z,37,,50.76936004,6.073282323
+AirQuality1089,MQsensor,Uphill,2021-08-23T16:23:45.082742Z,38,,50.76936004,6.073282323
+AirQuality1090,MQsensor,Uphill,2021-08-23T16:23:45.460159Z,39,,50.76936004,6.073282323
+AirQuality1091,MQsensor,Uphill,2021-08-23T16:23:45.866374Z,42,,50.76936004,6.073282323
+AirQuality1092,MQsensor,Uphill,2021-08-23T16:23:46.249597Z,44,,50.76936004,6.073282323
+AirQuality1093,MQsensor,Uphill,2021-08-23T16:23:46.626185Z,45,,50.76936004,6.073282323
+AirQuality1094,MQsensor,Uphill,2021-08-23T16:23:46.999955Z,44,,50.76936004,6.073282323
+AirQuality1095,MQsensor,Uphill,2021-08-23T16:23:47.385908Z,42,,50.76936004,6.073282323
+AirQuality1096,MQsensor,Uphill,2021-08-23T16:23:47.775661Z,42,,50.76936004,6.073282323
+AirQuality1097,MQsensor,Uphill,2021-08-23T16:23:48.143054Z,42,,50.76936004,6.073282323
+AirQuality1098,MQsensor,Uphill,2021-08-23T16:23:48.557966Z,41,,50.76936004,6.073282323
+AirQuality1099,MQsensor,Uphill,2021-08-23T16:23:48.983747Z,41,,50.76936004,6.073282323
+AirQuality1100,MQsensor,Uphill,2021-08-23T16:23:49.375899Z,39,,50.76936004,6.073282323
+AirQuality1101,MQsensor,Uphill,2021-08-23T16:23:49.744469Z,41,,50.76936004,6.073282323
+AirQuality1102,MQsensor,Uphill,2021-08-23T16:23:50.138016Z,42,,50.76936004,6.073282323
+AirQuality1103,MQsensor,Uphill,2021-08-23T16:23:50.551641Z,45,,50.76936004,6.073282323
+AirQuality1104,MQsensor,Uphill,2021-08-23T16:23:50.965217Z,43,,50.76936004,6.073282323
+AirQuality1105,MQsensor,Uphill,2021-08-23T16:23:51.33522Z,43,,50.76936004,6.073282323
+AirQuality1106,MQsensor,Uphill,2021-08-23T16:23:51.746093Z,46,,50.76936004,6.073282323
+AirQuality1107,MQsensor,Uphill,2021-08-23T16:23:52.214396Z,47,,50.76936004,6.073282323
+AirQuality1108,MQsensor,Uphill,2021-08-23T16:23:52.630236Z,50,,50.76936004,6.073282323
+AirQuality1109,MQsensor,Uphill,2021-08-23T16:23:53.011288Z,51,,50.76936004,6.073282323
+AirQuality1110,MQsensor,Uphill,2021-08-23T16:23:53.535019Z,51,,50.76936004,6.073282323
+AirQuality1111,MQsensor,Uphill,2021-08-23T16:23:53.894376Z,53,,50.76936004,6.073282323
+AirQuality1112,MQsensor,Uphill,2021-08-23T16:23:54.261232Z,52,,50.76936004,6.073282323
+AirQuality1113,MQsensor,Uphill,2021-08-23T16:23:54.684671Z,57,,50.76936004,6.073282323
+AirQuality1114,MQsensor,Uphill,2021-08-23T16:23:55.071353Z,58,,50.76936004,6.073282323
+AirQuality1115,MQsensor,Uphill,2021-08-23T16:23:55.470654Z,58,,50.76936004,6.073282323
+AirQuality1116,MQsensor,Uphill,2021-08-23T16:23:55.839408Z,58,,50.76936004,6.073282323
+AirQuality1117,MQsensor,Uphill,2021-08-23T16:23:56.209131Z,57,,50.76936004,6.073282323
+AirQuality1118,MQsensor,Uphill,2021-08-23T16:23:56.596061Z,58,,50.76936004,6.073282323
+AirQuality1119,MQsensor,Uphill,2021-08-23T16:23:56.973084Z,59,,50.76936004,6.073282323
+AirQuality1120,MQsensor,Uphill,2021-08-23T16:23:57.379209Z,55,,50.76936004,6.073282323
+AirQuality1121,MQsensor,Uphill,2021-08-23T16:23:57.879732Z,53,,50.76936004,6.073282323
+AirQuality1122,MQsensor,Uphill,2021-08-23T16:23:58.287856Z,51,,50.76936004,6.073282323
+AirQuality1123,MQsensor,Uphill,2021-08-23T16:23:58.696918Z,52,,50.76936004,6.073282323
+AirQuality1124,MQsensor,Uphill,2021-08-23T16:23:59.090501Z,54,,50.76936004,6.073282323
+AirQuality1125,MQsensor,Uphill,2021-08-23T16:23:59.496114Z,54,,50.76936004,6.073282323
+AirQuality1126,MQsensor,Uphill,2021-08-23T16:23:59.896293Z,54,,50.76936004,6.073282323
+AirQuality1127,MQsensor,Uphill,2021-08-23T16:24:00.270303Z,53,,50.76936004,6.073282323
+AirQuality1128,MQsensor,Uphill,2021-08-23T16:24:00.739552Z,51,,50.76936004,6.073282323
+AirQuality1129,MQsensor,Uphill,2021-08-23T16:24:01.115876Z,52,,50.76936004,6.073282323
+AirQuality1130,MQsensor,Uphill,2021-08-23T16:24:01.476092Z,55,,50.76936004,6.073282323
+AirQuality1131,MQsensor,Uphill,2021-08-23T16:24:01.845461Z,55,,50.76936004,6.073282323
+AirQuality1132,MQsensor,Uphill,2021-08-23T16:24:02.229742Z,55,,50.76936004,6.073282323
+AirQuality1133,MQsensor,Uphill,2021-08-23T16:24:02.623673Z,55,,50.76936004,6.073282323
+AirQuality1134,MQsensor,Uphill,2021-08-23T16:24:03.031213Z,55,,50.76936004,6.073282323
+AirQuality1135,MQsensor,Uphill,2021-08-23T16:24:03.417011Z,56,,50.76936004,6.073282323
+AirQuality1136,MQsensor,Uphill,2021-08-23T16:24:03.851698Z,58,,50.76936004,6.073282323
+AirQuality1137,MQsensor,Uphill,2021-08-23T16:24:04.23562Z,58,,50.76936004,6.073282323
+AirQuality1138,MQsensor,Uphill,2021-08-23T16:24:04.659476Z,57,,50.76936004,6.073282323
+AirQuality1139,MQsensor,Uphill,2021-08-23T16:24:05.029564Z,56,,50.76936004,6.073282323
+AirQuality1140,MQsensor,Uphill,2021-08-23T16:24:05.434209Z,57,,50.76936004,6.073282323
+AirQuality1141,MQsensor,Uphill,2021-08-23T16:24:05.81622Z,57,,50.76936004,6.073282323
+AirQuality1142,MQsensor,Uphill,2021-08-23T16:24:06.240035Z,57,,50.76936004,6.073282323
+AirQuality1143,MQsensor,Uphill,2021-08-23T16:24:06.625941Z,57,,50.76936004,6.073282323
+AirQuality1144,MQsensor,Uphill,2021-08-23T16:24:07.027592Z,58,,50.76936004,6.073282323
+AirQuality1145,MQsensor,Uphill,2021-08-23T16:24:07.394276Z,55,,50.76936004,6.073282323
+AirQuality1146,MQsensor,Uphill,2021-08-23T16:24:07.772069Z,53,,50.76936004,6.073282323
+AirQuality1147,MQsensor,Uphill,2021-08-23T16:24:08.151828Z,54,,50.76936004,6.073282323
+AirQuality1148,MQsensor,Uphill,2021-08-23T16:24:08.515048Z,58,,50.76936004,6.073282323
+AirQuality1149,MQsensor,Uphill,2021-08-23T16:24:08.93648Z,55,,50.76936004,6.073282323
+AirQuality1150,MQsensor,Uphill,2021-08-23T16:24:09.319327Z,55,,50.76936004,6.073282323
+AirQuality1151,MQsensor,Uphill,2021-08-23T16:24:09.777237Z,58,,50.76936004,6.073282323
+AirQuality1152,MQsensor,Uphill,2021-08-23T16:24:10.175936Z,59,,50.76936004,6.073282323
+AirQuality1153,MQsensor,Uphill,2021-08-23T16:24:10.617102Z,60,,50.76936004,6.073282323
+AirQuality1154,MQsensor,Uphill,2021-08-23T16:24:11.037372Z,59,,50.76936004,6.073282323
+AirQuality1155,MQsensor,Uphill,2021-08-23T16:24:11.501976Z,58,,50.76936004,6.073282323
+AirQuality1156,MQsensor,Uphill,2021-08-23T16:24:11.913942Z,57,,50.76936004,6.073282323
+AirQuality1157,MQsensor,Uphill,2021-08-23T16:24:12.392604Z,58,,50.76936004,6.073282323
+AirQuality1158,MQsensor,Uphill,2021-08-23T16:24:12.834132Z,56,,50.76936004,6.073282323
+AirQuality1159,MQsensor,Uphill,2021-08-23T16:24:13.26943Z,55,,50.76936004,6.073282323
+AirQuality1160,MQsensor,Uphill,2021-08-23T16:24:13.632569Z,54,,50.76936004,6.073282323
+AirQuality1161,MQsensor,Uphill,2021-08-23T16:24:14.04712Z,53,,50.76936004,6.073282323
+AirQuality1162,MQsensor,Uphill,2021-08-23T16:24:14.42642Z,53,,50.76936004,6.073282323
+AirQuality1163,MQsensor,Uphill,2021-08-23T16:24:14.906131Z,52,,50.76936004,6.073282323
+AirQuality1164,MQsensor,Uphill,2021-08-23T16:24:15.274812Z,51,,50.76936004,6.073282323
+AirQuality1165,MQsensor,Uphill,2021-08-23T16:24:15.686799Z,50,,50.76936004,6.073282323
+AirQuality1166,MQsensor,Uphill,2021-08-23T16:24:16.063307Z,49,,50.76936004,6.073282323
+AirQuality1167,MQsensor,Uphill,2021-08-23T16:24:16.448625Z,48,,50.76936004,6.073282323
+AirQuality1168,MQsensor,Uphill,2021-08-23T16:24:16.848559Z,45,,50.76936004,6.073282323
+AirQuality1169,MQsensor,Uphill,2021-08-23T16:24:17.235711Z,42,,50.76936004,6.073282323
+AirQuality1170,MQsensor,Uphill,2021-08-23T16:24:17.595383Z,41,,50.76936004,6.073282323
+AirQuality1171,MQsensor,Uphill,2021-08-23T16:24:17.95821Z,38,,50.76936004,6.073282323
+AirQuality1172,MQsensor,Uphill,2021-08-23T16:24:18.358015Z,38,,50.76936004,6.073282323
+AirQuality1173,MQsensor,Uphill,2021-08-23T16:24:18.72398Z,37,,50.76936004,6.073282323
+AirQuality1174,MQsensor,Uphill,2021-08-23T16:24:19.130528Z,36,,50.76936004,6.073282323
+AirQuality1175,MQsensor,Uphill,2021-08-23T16:24:19.528773Z,35,,50.76936004,6.073282323
+AirQuality1176,MQsensor,Uphill,2021-08-23T16:24:19.924673Z,34,,50.76936004,6.073282323
+AirQuality1177,MQsensor,Uphill,2021-08-23T16:24:20.302024Z,34,,50.76936004,6.073282323
+AirQuality1178,MQsensor,Uphill,2021-08-23T16:24:20.714475Z,33,,50.76936004,6.073282323
+AirQuality1179,MQsensor,Uphill,2021-08-23T16:24:21.111396Z,33,,50.76936004,6.073282323
+AirQuality1180,MQsensor,Uphill,2021-08-23T16:24:21.740235Z,69,,50.76936004,6.073282323
+AirQuality1181,MQsensor,Uphill,2021-08-23T16:24:22.147826Z,96,,50.76936004,6.073282323
+AirQuality1182,MQsensor,Uphill,2021-08-23T16:24:22.680238Z,88,,50.76936004,6.073282323
+AirQuality1183,MQsensor,Uphill,2021-08-23T16:24:23.049066Z,94,,50.76936004,6.073282323
+AirQuality1184,MQsensor,Uphill,2021-08-23T16:24:23.684573Z,98,,50.76936004,6.073282323
+AirQuality1185,MQsensor,Uphill,2021-08-23T16:24:24.396073Z,87,,50.76936004,6.073282323
+AirQuality1186,MQsensor,Uphill,2021-08-23T16:24:24.851103Z,78,,50.76936004,6.073282323
+AirQuality1187,MQsensor,Uphill,2021-08-23T16:24:25.323321Z,67,,50.76936004,6.073282323
+AirQuality1188,MQsensor,Uphill,2021-08-23T16:24:25.729783Z,62,,50.76936004,6.073282323
+AirQuality1189,MQsensor,Uphill,2021-08-23T16:24:26.13888Z,56,,50.76936004,6.073282323
+AirQuality1190,MQsensor,Uphill,2021-08-23T16:24:26.533313Z,53,,50.76936004,6.073282323
+AirQuality1191,MQsensor,Uphill,2021-08-23T16:24:26.935916Z,50,,50.76936004,6.073282323
+AirQuality1192,MQsensor,Uphill,2021-08-23T16:24:27.455996Z,49,,50.76936004,6.073282323
+AirQuality1193,MQsensor,Uphill,2021-08-23T16:24:27.862871Z,49,,50.76936004,6.073282323
+AirQuality1194,MQsensor,Uphill,2021-08-23T16:24:28.280513Z,46,,50.76936004,6.073282323
+AirQuality1195,MQsensor,Uphill,2021-08-23T16:24:28.691461Z,46,,50.76936004,6.073282323
+AirQuality1196,MQsensor,Uphill,2021-08-23T16:24:29.083207Z,47,,50.76936004,6.073282323
+AirQuality1197,MQsensor,Uphill,2021-08-23T16:24:29.522149Z,46,,50.76936004,6.073282323
+AirQuality1198,MQsensor,Uphill,2021-08-23T16:24:29.901237Z,44,,50.76936004,6.073282323
+AirQuality1199,MQsensor,Uphill,2021-08-23T16:24:30.305122Z,43,,50.76936004,6.073282323
+AirQuality1200,MQsensor,Uphill,2021-08-23T16:24:30.681478Z,41,,50.76936004,6.073282323
+AirQuality1201,MQsensor,Uphill,2021-08-23T16:24:31.074246Z,40,,50.76936004,6.073282323
+AirQuality1202,MQsensor,Uphill,2021-08-23T16:24:31.552023Z,39,,50.76936004,6.073282323
+AirQuality1203,MQsensor,Uphill,2021-08-23T16:24:31.947982Z,42,,50.76936004,6.073282323
+AirQuality1204,MQsensor,Uphill,2021-08-23T16:24:32.347447Z,45,,50.76936004,6.073282323
+AirQuality1205,MQsensor,Uphill,2021-08-23T16:24:32.759088Z,48,,50.76936004,6.073282323
+AirQuality1206,MQsensor,Uphill,2021-08-23T16:24:33.155486Z,51,,50.76936004,6.073282323
+AirQuality1207,MQsensor,Uphill,2021-08-23T16:24:33.561704Z,53,,50.76936004,6.073282323
+AirQuality1208,MQsensor,Uphill,2021-08-23T16:24:33.938499Z,54,,50.76936004,6.073282323
+AirQuality1209,MQsensor,Uphill,2021-08-23T16:24:34.385945Z,53,,50.76936004,6.073282323
+AirQuality1210,MQsensor,Uphill,2021-08-23T16:24:34.794713Z,52,,50.76936004,6.073282323
+AirQuality1211,MQsensor,Uphill,2021-08-23T16:24:35.182464Z,51,,50.76936004,6.073282323
+AirQuality1212,MQsensor,Uphill,2021-08-23T16:24:35.567784Z,53,,50.76936004,6.073282323
+AirQuality1213,MQsensor,Uphill,2021-08-23T16:24:35.957446Z,55,,50.76936004,6.073282323
+AirQuality1214,MQsensor,Uphill,2021-08-23T16:24:36.34166Z,55,,50.76936004,6.073282323
+AirQuality1215,MQsensor,Uphill,2021-08-23T16:24:36.729037Z,54,,50.76936004,6.073282323
+AirQuality1216,MQsensor,Uphill,2021-08-23T16:24:37.101433Z,53,,50.76936004,6.073282323
+AirQuality1217,MQsensor,Uphill,2021-08-23T16:24:37.476799Z,54,,50.76936004,6.073282323
+AirQuality1218,MQsensor,Uphill,2021-08-23T16:24:37.899412Z,51,,50.76936004,6.073282323
+AirQuality1219,MQsensor,Uphill,2021-08-23T16:24:38.295656Z,50,,50.76936004,6.073282323
+AirQuality1220,MQsensor,Uphill,2021-08-23T16:24:38.674155Z,49,,50.76936004,6.073282323
+AirQuality1221,MQsensor,Uphill,2021-08-23T16:24:39.052888Z,55,,50.76936004,6.073282323
+AirQuality1222,MQsensor,Uphill,2021-08-23T16:24:39.455777Z,48,,50.76936004,6.073282323
+AirQuality1223,MQsensor,Uphill,2021-08-23T16:24:39.863883Z,47,,50.76936004,6.073282323
+AirQuality1224,MQsensor,Uphill,2021-08-23T16:24:40.275631Z,46,,50.76936004,6.073282323
+AirQuality1225,MQsensor,Uphill,2021-08-23T16:24:40.649236Z,44,,50.76936004,6.073282323
+AirQuality1226,MQsensor,Uphill,2021-08-23T16:24:41.091378Z,46,,50.76936004,6.073282323
+AirQuality1227,MQsensor,Uphill,2021-08-23T16:24:41.535564Z,50,,50.76936004,6.073282323
+AirQuality1228,MQsensor,Uphill,2021-08-23T16:24:41.960551Z,53,,50.76936004,6.073282323
+AirQuality1229,MQsensor,Uphill,2021-08-23T16:24:42.354411Z,54,,50.76936004,6.073282323
+AirQuality1230,MQsensor,Uphill,2021-08-23T16:24:42.732156Z,54,,50.76936004,6.073282323
+AirQuality1231,MQsensor,Uphill,2021-08-23T16:24:43.13244Z,53,,50.76936004,6.073282323
+AirQuality1232,MQsensor,Uphill,2021-08-23T16:24:43.504947Z,54,,50.76936004,6.073282323
+AirQuality1233,MQsensor,Uphill,2021-08-23T16:24:43.870895Z,53,,50.76936004,6.073282323
+AirQuality1234,MQsensor,Uphill,2021-08-23T16:24:44.314389Z,52,,50.76936004,6.073282323
+AirQuality1235,MQsensor,Uphill,2021-08-23T16:24:44.743838Z,51,,50.76936004,6.073282323
+AirQuality1236,MQsensor,Uphill,2021-08-23T16:24:45.132023Z,51,,50.76936004,6.073282323
+AirQuality1237,MQsensor,Uphill,2021-08-23T16:24:45.56786Z,52,,50.76936004,6.073282323
+AirQuality1238,MQsensor,Uphill,2021-08-23T16:24:46.010842Z,52,,50.76936004,6.073282323
+AirQuality1239,MQsensor,Uphill,2021-08-23T16:24:46.390535Z,53,,50.76936004,6.073282323
+AirQuality1240,MQsensor,Uphill,2021-08-23T16:24:46.787947Z,57,,50.76936004,6.073282323
+AirQuality1241,MQsensor,Uphill,2021-08-23T16:24:47.184142Z,60,,50.76936004,6.073282323
+AirQuality1242,MQsensor,Uphill,2021-08-23T16:24:47.587552Z,58,,50.76936004,6.073282323
+AirQuality1243,MQsensor,Uphill,2021-08-23T16:24:48.010623Z,56,,50.76936004,6.073282323
+AirQuality1244,MQsensor,Uphill,2021-08-23T16:24:48.416738Z,57,,50.76936004,6.073282323
+AirQuality1245,MQsensor,Uphill,2021-08-23T16:24:48.784784Z,58,,50.76936004,6.073282323
+AirQuality1246,MQsensor,Uphill,2021-08-23T16:24:49.187325Z,59,,50.76936004,6.073282323
+AirQuality1247,MQsensor,Uphill,2021-08-23T16:24:49.583205Z,58,,50.76936004,6.073282323
+AirQuality1248,MQsensor,Uphill,2021-08-23T16:24:50.019947Z,56,,50.76936004,6.073282323
+AirQuality1249,MQsensor,Uphill,2021-08-23T16:24:50.383677Z,58,,50.76936004,6.073282323
+AirQuality1250,MQsensor,Uphill,2021-08-23T16:24:50.817878Z,58,,50.76936004,6.073282323
+AirQuality1251,MQsensor,Uphill,2021-08-23T16:24:51.181878Z,57,,50.76936004,6.073282323
+AirQuality1252,MQsensor,Uphill,2021-08-23T16:24:51.557218Z,56,,50.76936004,6.073282323
+AirQuality1253,MQsensor,Uphill,2021-08-23T16:24:51.999997Z,55,,50.76936004,6.073282323
+AirQuality1254,MQsensor,Uphill,2021-08-23T16:24:52.390221Z,52,,50.76936004,6.073282323
+AirQuality1255,MQsensor,Uphill,2021-08-23T16:24:52.796331Z,51,,50.76936004,6.073282323
+AirQuality1256,MQsensor,Uphill,2021-08-23T16:24:53.17762Z,49,,50.76936004,6.073282323
+AirQuality1257,MQsensor,Uphill,2021-08-23T16:24:53.580311Z,47,,50.76936004,6.073282323
+AirQuality1258,MQsensor,Uphill,2021-08-23T16:24:53.944164Z,46,,50.76936004,6.073282323
+AirQuality1259,MQsensor,Uphill,2021-08-23T16:24:54.343542Z,46,,50.76936004,6.073282323
+AirQuality1260,MQsensor,Uphill,2021-08-23T16:24:54.749349Z,45,,50.76936004,6.073282323
+AirQuality1261,MQsensor,Uphill,2021-08-23T16:24:55.136203Z,44,,50.76936004,6.073282323
+AirQuality1262,MQsensor,Uphill,2021-08-23T16:24:55.542877Z,42,,50.76936004,6.073282323
+AirQuality1263,MQsensor,Uphill,2021-08-23T16:24:55.926671Z,40,,50.76936004,6.073282323
+AirQuality1264,MQsensor,Uphill,2021-08-23T16:24:56.295483Z,40,,50.76936004,6.073282323
+AirQuality1265,MQsensor,Uphill,2021-08-23T16:24:56.720865Z,39,,50.76936004,6.073282323
+AirQuality1266,MQsensor,Uphill,2021-08-23T16:24:57.12555Z,39,,50.76936004,6.073282323
+AirQuality1267,MQsensor,Uphill,2021-08-23T16:24:57.526006Z,38,,50.76936004,6.073282323
+AirQuality1268,MQsensor,Uphill,2021-08-23T16:24:57.915338Z,37,,50.76936004,6.073282323
+AirQuality1269,MQsensor,Uphill,2021-08-23T16:24:58.2868Z,37,,50.76936004,6.073282323
+AirQuality1270,MQsensor,Uphill,2021-08-23T16:24:58.705851Z,35,,50.76936004,6.073282323
+AirQuality1271,MQsensor,Uphill,2021-08-23T16:24:59.07914Z,33,,50.76936004,6.073282323
+AirQuality1272,MQsensor,Uphill,2021-08-23T16:24:59.47339Z,34,,50.76936004,6.073282323
+AirQuality1273,MQsensor,Uphill,2021-08-23T16:24:59.868638Z,32,,50.76936004,6.073282323
+AirQuality1274,MQsensor,Uphill,2021-08-23T16:25:00.230248Z,33,,50.76936004,6.073282323
+AirQuality1275,MQsensor,Uphill,2021-08-23T16:25:00.677342Z,31,,50.76936004,6.073282323
+AirQuality1276,MQsensor,Uphill,2021-08-23T16:25:01.046051Z,31,,50.76936004,6.073282323
+AirQuality1277,MQsensor,Uphill,2021-08-23T16:25:01.465695Z,31,,50.76936004,6.073282323
+AirQuality1278,MQsensor,Uphill,2021-08-23T16:25:01.843339Z,30,,50.76936004,6.073282323
+AirQuality1279,MQsensor,Uphill,2021-08-23T16:25:02.271318Z,29,,50.76936004,6.073282323
+AirQuality1280,MQsensor,Uphill,2021-08-23T16:25:02.688314Z,39,,50.76936004,6.073282323
+AirQuality1281,MQsensor,Uphill,2021-08-23T16:25:03.095615Z,44,,50.76936004,6.073282323
+AirQuality1282,MQsensor,Uphill,2021-08-23T16:25:03.520839Z,46,,50.76936004,6.073282323
+AirQuality1283,MQsensor,Uphill,2021-08-23T16:25:03.900463Z,46,,50.76936004,6.073282323
+AirQuality1284,MQsensor,Uphill,2021-08-23T16:25:04.286764Z,45,,50.76936004,6.073282323
+AirQuality1285,MQsensor,Uphill,2021-08-23T16:25:04.690173Z,42,,50.76936004,6.073282323
+AirQuality1286,MQsensor,Uphill,2021-08-23T16:25:05.070243Z,41,,50.76936004,6.073282323
+AirQuality1287,MQsensor,Uphill,2021-08-23T16:25:05.482253Z,41,,50.76936004,6.073282323
+AirQuality1288,MQsensor,Uphill,2021-08-23T16:25:05.876977Z,43,,50.76936004,6.073282323
+AirQuality1289,MQsensor,Uphill,2021-08-23T16:25:06.286147Z,45,,50.76936004,6.073282323
+AirQuality1290,MQsensor,Uphill,2021-08-23T16:25:06.674412Z,45,,50.76936004,6.073282323
+AirQuality1291,MQsensor,Uphill,2021-08-23T16:25:07.081694Z,44,,50.76936004,6.073282323
+AirQuality1292,MQsensor,Uphill,2021-08-23T16:25:07.456736Z,42,,50.76936004,6.073282323
+AirQuality1293,MQsensor,Uphill,2021-08-23T16:25:07.857017Z,39,,50.76936004,6.073282323
+AirQuality1294,MQsensor,Uphill,2021-08-23T16:25:08.238441Z,37,,50.76936004,6.073282323
+AirQuality1295,MQsensor,Uphill,2021-08-23T16:25:08.65544Z,36,,50.76936004,6.073282323
+AirQuality1296,MQsensor,Uphill,2021-08-23T16:25:09.060534Z,36,,50.76936004,6.073282323
+AirQuality1297,MQsensor,Uphill,2021-08-23T16:25:09.463283Z,35,,50.76936004,6.073282323
+AirQuality1298,MQsensor,Uphill,2021-08-23T16:25:09.932745Z,34,,50.76936004,6.073282323
+AirQuality1299,MQsensor,Uphill,2021-08-23T16:25:10.325586Z,34,,50.76936004,6.073282323
+AirQuality1300,MQsensor,Uphill,2021-08-23T16:25:10.719468Z,34,,50.76936004,6.073282323
+AirQuality1301,MQsensor,Uphill,2021-08-23T16:25:11.084214Z,35,,50.76936004,6.073282323
+AirQuality1302,MQsensor,Uphill,2021-08-23T16:25:11.457118Z,35,,50.76936004,6.073282323
+AirQuality1303,MQsensor,Uphill,2021-08-23T16:25:11.829937Z,33,,50.76936004,6.073282323
+AirQuality1304,MQsensor,Uphill,2021-08-23T16:25:12.218845Z,35,,50.76936004,6.073282323
+AirQuality1305,MQsensor,Uphill,2021-08-23T16:25:12.618271Z,33,,50.76936004,6.073282323
+AirQuality1306,MQsensor,Uphill,2021-08-23T16:25:12.991661Z,32,,50.76936004,6.073282323
+AirQuality1307,MQsensor,Uphill,2021-08-23T16:25:13.36925Z,32,,50.76936004,6.073282323
+AirQuality1308,MQsensor,Uphill,2021-08-23T16:25:13.764846Z,33,,50.76936004,6.073282323
+AirQuality1309,MQsensor,Uphill,2021-08-23T16:25:14.146968Z,33,,50.76936004,6.073282323
+AirQuality1310,MQsensor,Uphill,2021-08-23T16:25:14.565827Z,32,,50.76936004,6.073282323
+AirQuality1311,MQsensor,Uphill,2021-08-23T16:25:14.982225Z,32,,50.76936004,6.073282323
+AirQuality1312,MQsensor,Uphill,2021-08-23T16:25:15.377126Z,31,,50.76936004,6.073282323
+AirQuality1313,MQsensor,Uphill,2021-08-23T16:25:15.777326Z,31,,50.76936004,6.073282323
+AirQuality1314,MQsensor,Uphill,2021-08-23T16:25:16.168961Z,31,,50.76936004,6.073282323
+AirQuality1315,MQsensor,Uphill,2021-08-23T16:25:16.587705Z,30,,50.76936004,6.073282323
+AirQuality1316,MQsensor,Uphill,2021-08-23T16:25:17.017541Z,31,,50.76936004,6.073282323
+AirQuality1317,MQsensor,Uphill,2021-08-23T16:25:17.39203Z,30,,50.76936004,6.073282323
+AirQuality1318,MQsensor,Uphill,2021-08-23T16:25:17.774693Z,30,,50.76936004,6.073282323
+AirQuality1319,MQsensor,Uphill,2021-08-23T16:25:18.153406Z,31,,50.76936004,6.073282323
+AirQuality1320,MQsensor,Uphill,2021-08-23T16:25:18.571957Z,33,,50.76936004,6.073282323
+AirQuality1321,MQsensor,Uphill,2021-08-23T16:25:18.953912Z,33,,50.76936004,6.073282323
+AirQuality1322,MQsensor,Uphill,2021-08-23T16:25:19.347346Z,33,,50.76936004,6.073282323
+AirQuality1323,MQsensor,Uphill,2021-08-23T16:25:19.712437Z,32,,50.76936004,6.073282323
+AirQuality1324,MQsensor,Uphill,2021-08-23T16:25:20.184617Z,31,,50.76936004,6.073282323
+AirQuality1325,MQsensor,Uphill,2021-08-23T16:25:20.590169Z,31,,50.76936004,6.073282323
+AirQuality1326,MQsensor,Uphill,2021-08-23T16:25:20.984787Z,31,,50.76936004,6.073282323
+AirQuality1327,MQsensor,Uphill,2021-08-23T16:25:21.513307Z,31,,50.76936004,6.073282323
+AirQuality1328,MQsensor,Uphill,2021-08-23T16:25:21.906828Z,30,,50.76936004,6.073282323
+AirQuality1329,MQsensor,Uphill,2021-08-23T16:25:22.55924Z,30,,50.76936004,6.073282323
+AirQuality1330,MQsensor,Uphill,2021-08-23T16:25:23.029101Z,29,,50.76936004,6.073282323
+AirQuality1331,MQsensor,Uphill,2021-08-23T16:25:23.426411Z,31,,50.76936004,6.073282323
+AirQuality1332,MQsensor,Uphill,2021-08-23T16:25:23.971083Z,31,,50.76936004,6.073282323
+AirQuality1333,MQsensor,Uphill,2021-08-23T16:25:24.497994Z,30,,50.76936004,6.073282323
+AirQuality1334,MQsensor,Uphill,2021-08-23T16:25:24.898862Z,30,,50.76936004,6.073282323
+AirQuality1335,MQsensor,Uphill,2021-08-23T16:25:25.291012Z,30,,50.76936004,6.073282323
+AirQuality1336,MQsensor,Uphill,2021-08-23T16:25:25.685218Z,30,,50.76936004,6.073282323
+AirQuality1337,MQsensor,Uphill,2021-08-23T16:25:26.079357Z,30,,50.76936004,6.073282323
+AirQuality1338,MQsensor,Uphill,2021-08-23T16:25:26.479353Z,35,,50.76936004,6.073282323
+AirQuality1339,MQsensor,Uphill,2021-08-23T16:25:26.901632Z,31,,50.76936004,6.073282323
+AirQuality1340,MQsensor,Uphill,2021-08-23T16:25:27.317119Z,31,,50.76936004,6.073282323
+AirQuality1341,MQsensor,Uphill,2021-08-23T16:25:27.73619Z,32,,50.76936004,6.073282323
+AirQuality1342,MQsensor,Uphill,2021-08-23T16:25:28.13222Z,32,,50.76936004,6.073282323
+AirQuality1343,MQsensor,Uphill,2021-08-23T16:25:28.572401Z,31,,50.76936004,6.073282323
+AirQuality1344,MQsensor,Uphill,2021-08-23T16:25:28.996782Z,30,,50.76936004,6.073282323
+AirQuality1345,MQsensor,Uphill,2021-08-23T16:25:29.424167Z,29,,50.76936004,6.073282323
+AirQuality1346,MQsensor,Uphill,2021-08-23T16:25:29.815641Z,29,,50.76936004,6.073282323
+AirQuality1347,MQsensor,Uphill,2021-08-23T16:25:30.216702Z,32,,50.76936004,6.073282323
+AirQuality1348,MQsensor,Uphill,2021-08-23T16:25:30.634017Z,37,,50.76936004,6.073282323
+AirQuality1349,MQsensor,Uphill,2021-08-23T16:25:31.042327Z,40,,50.76936004,6.073282323
+AirQuality1350,MQsensor,Uphill,2021-08-23T16:25:31.430246Z,41,,50.76936004,6.073282323
+AirQuality1351,MQsensor,Uphill,2021-08-23T16:25:31.796167Z,42,,50.76936004,6.073282323
+AirQuality1352,MQsensor,Uphill,2021-08-23T16:25:32.161269Z,41,,50.76936004,6.073282323
+AirQuality1353,MQsensor,Uphill,2021-08-23T16:25:32.547251Z,43,,50.76936004,6.073282323
+AirQuality1354,MQsensor,Uphill,2021-08-23T16:25:32.965961Z,45,,50.76936004,6.073282323
+AirQuality1355,MQsensor,Uphill,2021-08-23T16:25:33.374263Z,44,,50.76936004,6.073282323
+AirQuality1356,MQsensor,Uphill,2021-08-23T16:25:33.773684Z,43,,50.76936004,6.073282323
+AirQuality1357,MQsensor,Uphill,2021-08-23T16:25:34.156759Z,41,,50.76936004,6.073282323
+AirQuality1358,MQsensor,Uphill,2021-08-23T16:25:34.535624Z,39,,50.76936004,6.073282323
+AirQuality1359,MQsensor,Uphill,2021-08-23T16:25:34.917348Z,38,,50.76936004,6.073282323
+AirQuality1360,MQsensor,Uphill,2021-08-23T16:25:35.315761Z,37,,50.76936004,6.073282323
+AirQuality1361,MQsensor,Uphill,2021-08-23T16:25:35.738308Z,38,,50.76936004,6.073282323
+AirQuality1362,MQsensor,Uphill,2021-08-23T16:25:36.124426Z,42,,50.76936004,6.073282323
+AirQuality1363,MQsensor,Uphill,2021-08-23T16:25:36.50313Z,45,,50.76936004,6.073282323
+AirQuality1364,MQsensor,Uphill,2021-08-23T16:25:36.912159Z,48,,50.76936004,6.073282323
+AirQuality1365,MQsensor,Uphill,2021-08-23T16:25:37.344343Z,49,,50.76936004,6.073282323
+AirQuality1366,MQsensor,Uphill,2021-08-23T16:25:37.720225Z,49,,50.76936004,6.073282323
+AirQuality1367,MQsensor,Uphill,2021-08-23T16:25:38.139473Z,50,,50.76936004,6.073282323
+AirQuality1368,MQsensor,Uphill,2021-08-23T16:25:38.528227Z,50,,50.76936004,6.073282323
+AirQuality1369,MQsensor,Uphill,2021-08-23T16:25:38.948334Z,50,,50.76936004,6.073282323
+AirQuality1370,MQsensor,Uphill,2021-08-23T16:25:39.400945Z,51,,50.76936004,6.073282323
+AirQuality1371,MQsensor,Uphill,2021-08-23T16:25:39.798787Z,51,,50.76936004,6.073282323
+AirQuality1372,MQsensor,Uphill,2021-08-23T16:25:40.16744Z,53,,50.76936004,6.073282323
+AirQuality1373,MQsensor,Uphill,2021-08-23T16:25:40.623833Z,53,,50.76936004,6.073282323
+AirQuality1374,MQsensor,Uphill,2021-08-23T16:25:41.015278Z,52,,50.76936004,6.073282323
+AirQuality1375,MQsensor,Uphill,2021-08-23T16:25:41.398532Z,50,,50.76936004,6.073282323
+AirQuality1376,MQsensor,Uphill,2021-08-23T16:25:41.788895Z,48,,50.76936004,6.073282323
+AirQuality1377,MQsensor,Uphill,2021-08-23T16:25:42.186534Z,48,,50.76936004,6.073282323
+AirQuality1378,MQsensor,Uphill,2021-08-23T16:25:42.573146Z,49,,50.76936004,6.073282323
+AirQuality1379,MQsensor,Uphill,2021-08-23T16:25:42.949804Z,50,,50.76936004,6.073282323
+AirQuality1380,MQsensor,Uphill,2021-08-23T16:25:43.375346Z,50,,50.76936004,6.073282323
+AirQuality1381,MQsensor,Uphill,2021-08-23T16:25:43.761052Z,51,,50.76936004,6.073282323
+AirQuality1382,MQsensor,Uphill,2021-08-23T16:25:44.167899Z,53,,50.76936004,6.073282323
+AirQuality1383,MQsensor,Uphill,2021-08-23T16:25:44.539983Z,52,,50.76936004,6.073282323
+AirQuality1384,MQsensor,Uphill,2021-08-23T16:25:44.959328Z,51,,50.76936004,6.073282323
+AirQuality1385,MQsensor,Uphill,2021-08-23T16:25:45.378161Z,50,,50.76936004,6.073282323
+AirQuality1386,MQsensor,Uphill,2021-08-23T16:25:45.837943Z,50,,50.76936004,6.073282323
+AirQuality1387,MQsensor,Uphill,2021-08-23T16:25:46.230901Z,49,,50.76936004,6.073282323
+AirQuality1388,MQsensor,Uphill,2021-08-23T16:25:46.642686Z,49,,50.76936004,6.073282323
+AirQuality1389,MQsensor,Uphill,2021-08-23T16:25:47.037223Z,48,,50.76936004,6.073282323
+AirQuality1390,MQsensor,Uphill,2021-08-23T16:25:47.456218Z,48,,50.76936004,6.073282323
+AirQuality1391,MQsensor,Uphill,2021-08-23T16:25:47.836645Z,47,,50.76936004,6.073282323
+AirQuality1392,MQsensor,Uphill,2021-08-23T16:25:48.243214Z,47,,50.76936004,6.073282323
+AirQuality1393,MQsensor,Uphill,2021-08-23T16:25:48.65631Z,46,,50.76936004,6.073282323
+AirQuality1394,MQsensor,Uphill,2021-08-23T16:25:49.061026Z,45,,50.76936004,6.073282323
+AirQuality1395,MQsensor,Uphill,2021-08-23T16:25:49.435237Z,44,,50.76936004,6.073282323
+AirQuality1396,MQsensor,Uphill,2021-08-23T16:25:49.81322Z,43,,50.76936004,6.073282323
+AirQuality1397,MQsensor,Uphill,2021-08-23T16:25:50.202104Z,43,,50.76936004,6.073282323
+AirQuality1398,MQsensor,Uphill,2021-08-23T16:25:50.611196Z,42,,50.76936004,6.073282323
+AirQuality1399,MQsensor,Uphill,2021-08-23T16:25:51.025453Z,42,,50.76936004,6.073282323
+AirQuality1400,MQsensor,Uphill,2021-08-23T16:25:51.422952Z,41,,50.76936004,6.073282323
