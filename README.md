@@ -7,3 +7,4 @@ This repository is a demonstration of using RDF-star and Solid to implement sema
 * Solid pod configuration by Community Solid Server
 * SSN-log extension module for provenance and timed property
 * Sample sensor monitoring datasets
+![image](https://github.com/Yingying-Zhang/solid_semantic_sensor/blob/main/img/sensor.png)
